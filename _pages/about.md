@@ -11,12 +11,11 @@ I am a first-year M.S. student at the [SNU AIDAS Lab](https://aidas.snu.ac.kr/),
 
 News
 ======
-- 🔥 Our paper **“SECOND: Mitigating Perceptual Hallucination in Vision-Language Models via Selective and Contrastive Decoding”** has been accepted to the **2025 International Conference on Machine Learning (ICML)**. ([arXiv:2506.08391](https://arxiv.org/abs/2506.08391))
+🔥 Our paper **“SECOND: Mitigating Perceptual Hallucination in Vision-Language Models via Selective and Contrastive Decoding”** has been accepted to the **2025 International Conference on Machine Learning (ICML)**.
 
 Publications
 ======
-- ![ICML](https://img.shields.io/badge/ICML-2025-007ACC)  
-  **SECOND: Mitigating Perceptual Hallucination in Vision-Language Models via Selective and Contrastive Decoding**  
-  Woohyeon Park, Woojin Kim, Jaeik Kim, Jaeyoung Do 
+![ICML](https://img.shields.io/badge/ICML-2025-007ACC) **SECOND: Mitigating Perceptual Hallucination in Vision-Language Models via Selective and Contrastive Decoding**  
+ Woohyeon Park, Woojin Kim, <u>Jaeik Kim</u>, Jaeyoung Do
   _In_ 2025 International Conference on Machine Learning (ICML).  
   [arXiv:2506.08391](https://arxiv.org/abs/2506.08391)
