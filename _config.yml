@@ -26,7 +26,7 @@ author:
   name             : # "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : # "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "Seoul"
   employer         : "Seoul National University"
   uri              : # URL
   email            : "jake630@snu.ac.kr" 
@@ -34,7 +34,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=fwpoQpQAAAAJ&hl=ko"
   impactstory      : # URL
   orcid            :  #"http://orcid.org/yourorcidurl"
   semantic         : # URL
@@ -215,16 +215,16 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
