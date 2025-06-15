@@ -15,7 +15,6 @@ News
 
 Publications
 ======
-![ICML](https://img.shields.io/badge/ICML-2025-007ACC) **SECOND: Mitigating Perceptual Hallucination in Vision-Language Models via Selective and Contrastive Decoding**  
- Woohyeon Park, Woojin Kim, <u>Jaeik Kim</u>, Jaeyoung Do
+![ICML](https://img.shields.io/badge/ICML-2025-007ACC) **[SECOND: Mitigating Perceptual Hallucination in Vision-Language Models via Selective and Contrastive Decoding](https://arxiv.org/abs/2506.08391)**  
+ Woohyeon Park, Woojin Kim, <u>Jaeik Kim</u>, Jaeyoung Do,
   _In_ 2025 International Conference on Machine Learning (ICML).  
-  [arXiv:2506.08391](https://arxiv.org/abs/2506.08391)
