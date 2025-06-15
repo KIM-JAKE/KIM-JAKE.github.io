@@ -4,6 +4,6 @@ collection: publications
 category: manuscripts
 permalink: /publication/ICML2025-SECOND
 date: 2025-06-15
-venue: 'ICML 2025'
+venue: 'ICML'
 paperurl: https://arxiv.org/abs/2506.08391
 ---
