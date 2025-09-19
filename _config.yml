@@ -220,7 +220,7 @@ collections:
     output: false
     permalink: /:collection/:path/
   publications:
-    output: flase
+    output: false
     permalink: /:collection/:path/
   portfolio:
     output: false
