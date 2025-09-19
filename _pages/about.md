@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year M.S. student at the [SNU AIDAS Lab](https://aidas.snu.ac.kr/), advised by Jaeyoung Do. My research lies at the intersection of **model editing and personalization** in generative AI: developing techniques for model merging, diffusion-based large language models, classifier editing, and user-driven personalization.
+I am a first-year M.S. student at the [SNU AIDAS Lab](https://aidas.snu.ac.kr/), advised by Jaeyoung Do.  
+My research focuses on **model editing and personalization**, **diffusion-based language models**, and **omni-modal models**.
 
 News
 ======
