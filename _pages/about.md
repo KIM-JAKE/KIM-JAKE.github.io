@@ -1,20 +1,21 @@
 ---
 permalink: /
-title: "Jaeik Kim"
+title: 
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a first-year M.S. student at the [SNU AIDAS Lab](https://aidas.snu.ac.kr/), advised by Jaeyoung Do.  
+I am a first-year M.S. student in the [AIDAS Lab](https://aidas.snu.ac.kr/) at Seoul National University, advised by Jaeyoung Do.
 My research focuses on **model editing and personalization**, **diffusion-based language models**, and **omni-modal models**.
 
 News
 ======
+### 2025
 🔥 Two of our papers have been accepted to the **39th Annual Conference on Neural Information Processing Systems (NeurIPS 2025)**
 
-🔥 Our paper has been accepted to the **2025 International Conference on Machine Learning (ICML)**.
+🔥 Our paper has been accepted to the **2025 International Conference on Machine Learning (ICML)**
 
 Publications
 ======
@@ -35,3 +36,4 @@ _In_ Conference on Neural Information Processing Systems (NeurIPS), 2025
  Woohyeon Park, Woojin Kim, <u>Jaeik Kim</u>, Jaeyoung Do,
   _In_ International Conference on Machine Learning (ICML), 2025
   
+

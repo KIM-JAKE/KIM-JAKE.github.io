@@ -12,6 +12,23 @@
   {% assign title = post.title %}
 {% endif %}
 
+{% assign publication_image = nil %}
+{% if post.collection == 'publications' %}
+  {% if post.image %}
+    {% assign publication_image = post.image %}
+  {% elsif teaser %}
+    {% assign publication_image = teaser %}
+  {% endif %}
+{% endif %}
+
+{% if publication_image %}
+  {% if publication_image contains "://" %}
+    {% assign publication_image_url = publication_image %}
+  {% else %}
+    {% assign publication_image_url = publication_image | prepend: base_path %}
+  {% endif %}
+{% endif %}
+
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
@@ -24,6 +41,16 @@
           {% endif %}
           alt="">
       </div>
+    {% endif %}
+
+    {% if post.collection == 'publications' %}
+      <div class="archive__item-layout archive__item-layout--publication">
+        {% if publication_image_url %}
+          <div class="archive__item-figure">
+            <img src="{{ publication_image_url }}" alt="{{ post.image_alt | default: post.title }}" loading="lazy">
+          </div>
+        {% endif %}
+        <div class="archive__item-content">
     {% endif %}
 
     <h2 class="archive__item-title" itemprop="headline">
@@ -78,6 +105,11 @@
       <p><a href="{{ post.slidesurl }}">Download Slides</a></p>
     {% elsif post.bibtexurl %}
       <p><a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
+    {% endif %}
+
+    {% if post.collection == 'publications' %}
+        </div>
+      </div>
     {% endif %}
 
   </article>

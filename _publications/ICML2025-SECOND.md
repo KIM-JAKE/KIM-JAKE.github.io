@@ -4,4 +4,8 @@ collection: publications
 category: 2025
 date: 2025-06-15
 venue: 'International Conference on Machine Learning (ICML)'
+image: /images/publications/second.png
+image_alt: ""
+excerpt: >-
+  Woohyeon Park, Woojin Kim, <u>Jaeik Kim</u>, Jaeyoung Do · International Conference on Machine Learning (ICML) 2025
 ---
