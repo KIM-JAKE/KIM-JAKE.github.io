@@ -20,14 +20,14 @@ News
 Publications
 ======
 
-![NeurIPS](https://img.shields.io/badge/NeurIPS-2025-CC0000) **[Exploring and Leveraging Class Vectors for Classifier Editing](https://arxiv.org/abs/)**  
-<u>Jaeik Kim</u>, Jaeyoung Do  
+![NeurIPS](https://img.shields.io/badge/NeurIPS-2025-CC0000) **[MMPB: It’s Time for Multi-Modal Personalization](https://arxiv.org/abs/)**  
+<u>Jaeik Kim</u>, Woojin Kim, Woohyeon Park, Jaeyoung Do  
 _In_ Conference on Neural Information Processing Systems (NeurIPS), 2025
 
 ---
 
-![NeurIPS](https://img.shields.io/badge/NeurIPS-2025-CC0000) **[MMPB: It’s Time for Multi-Modal Personalization](https://arxiv.org/abs/)**  
-<u>Jaeik Kim</u>, Woojin Kim, Woohyeon Park, Jaeyoung Do  
+![NeurIPS](https://img.shields.io/badge/NeurIPS-2025-CC0000) **[Exploring and Leveraging Class Vectors for Classifier Editing](https://arxiv.org/abs/)**  
+<u>Jaeik Kim</u>, Jaeyoung Do  
 _In_ Conference on Neural Information Processing Systems (NeurIPS), 2025
 
 ---
