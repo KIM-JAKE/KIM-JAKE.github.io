@@ -7,5 +7,5 @@ venue: 'Conference on Neural Information Processing Systems (NeurIPS)'
 image: /images/publications/class_vector.png
 image_alt: ""
 excerpt: >-
-  <u>Jaeik Kim</u>, Jaeyoung Do · Conference on Neural Information Processing Systems (NeurIPS) 2025
+  <u>Jaeik Kim</u>, Jaeyoung Do
 ---

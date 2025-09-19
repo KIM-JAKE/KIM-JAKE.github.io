@@ -7,5 +7,5 @@ venue: 'International Conference on Machine Learning (ICML)'
 image: /images/publications/second.png
 image_alt: ""
 excerpt: >-
-  Woohyeon Park, Woojin Kim, <u>Jaeik Kim</u>, Jaeyoung Do · International Conference on Machine Learning (ICML) 2025
+  Woohyeon Park, Woojin Kim, <u>Jaeik Kim</u>, Jaeyoung Do
 ---
