@@ -55,11 +55,10 @@ html {
 .archive__item-layout--publication {
   display: flex;
   align-items: flex-start;
-  gap: 1.5rem;
-  background-color: rgba(15, 23, 42, 0.03);
-  border-radius: 14px;
-  padding: 1.5rem;
-  box-shadow: 0 10px 25px -20px rgba(15, 23, 42, 0.45);
+  gap: 1.25rem;
+  padding: 0;
+  background: transparent;
+  box-shadow: none;
 }
 
 .archive__item-layout--publication .archive__item-title {
@@ -67,27 +66,29 @@ html {
 }
 
 .archive__item-figure {
-  flex: 0 0 240px;
-  max-width: 240px;
+  flex: 0 0 160px;
+  max-width: 160px;
 }
 
 .archive__item-figure img {
   width: 100%;
   height: auto;
-  border-radius: 12px;
-  box-shadow: 0 12px 30px -18px rgba(15, 23, 42, 0.6);
+  border-radius: 10px;
+  box-shadow: 0 16px 35px -22px rgba(15, 23, 42, 0.55);
 }
 
 .archive__item-content {
   flex: 1;
+  min-width: 0;
 }
 
 @media screen and (max-width: 820px) {
   .archive__item-layout--publication {
     flex-direction: column;
+    gap: 1rem;
   }
 
   .archive__item-figure {
-    max-width: 100%;
+    max-width: 220px;
   }
 }
