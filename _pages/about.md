@@ -12,11 +12,9 @@ My research focuses on **model editing and personalization**, **diffusion-based 
 
 News
 ======
-🔥 Two of our papers have been accepted to the **39th Annual Conference on Neural Information Processing Systems (NeurIPS 2025)**:  
-- **“Exploring and Leveraging Class Vectors for Classifier Editing”**  
-- **“MMPB: It’s Time for Multi-Modal Personalization”**
-  
-🔥 Our paper **“SECOND: Mitigating Perceptual Hallucination in Vision-Language Models via Selective and Contrastive Decoding”** has been accepted to the **2025 International Conference on Machine Learning (ICML)**.
+🔥 Two of our papers have been accepted to the **39th Annual Conference on Neural Information Processing Systems (NeurIPS 2025)**
+
+🔥 Our paper has been accepted to the **2025 International Conference on Machine Learning (ICML)**.
 
 Publications
 ======
