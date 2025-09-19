@@ -61,8 +61,8 @@ html {
 
 .archive__item-figure {
   float: left;
-  width: 190px;
-  max-width: 38%;
+  width: 220px;
+  max-width: 40%;
   margin: 0 1.5rem 0.75rem 0;
 }
 
@@ -84,11 +84,11 @@ html {
 }
 
 .archive__item-content p {
-  margin-bottom: 0.4rem;
+  margin: 0;
 }
 
 .archive__item-content .archive__item-excerpt {
-  margin-bottom: 0.75rem;
+  margin: 0.35rem 0 0;
 }
 
 @media screen and (max-width: 720px) {
