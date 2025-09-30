@@ -20,7 +20,7 @@ News
 Publications
 ======
 
-![NeurIPS](https://img.shields.io/badge/NeurIPS-2025-CC0000) **[MMPB: It’s Time for Multi-Modal Personalization](https://arxiv.org/abs/)**  
+![NeurIPS](https://img.shields.io/badge/NeurIPS-2025-CC0000) **[MMPB: It’s Time for Multi-Modal Personalization](https://arxiv.org/abs/2509.22820)**  
 <u>Jaeik Kim</u>, Woojin Kim, Woohyeon Park, Jaeyoung Do  
 _In_ Conference on Neural Information Processing Systems (NeurIPS), 2025
 
