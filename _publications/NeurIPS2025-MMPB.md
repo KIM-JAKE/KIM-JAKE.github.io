@@ -1,5 +1,5 @@
 ---
-title: "MMPB: It’s Time for Multi-Modal Personalization"
+title: "[MMPB: It’s Time for Multi-Modal Personalization](https://arxiv.org/abs/2509.22820v1)"
 collection: publications
 category: 2025
 date: 2025-09-19
