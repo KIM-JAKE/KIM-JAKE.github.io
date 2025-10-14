@@ -1,5 +1,5 @@
 ---
-title: "Exploring and Leveraging Class Vectors for Classifier Editing"
+title: "[Exploring and Leveraging Class Vectors for Classifier Editing](https://arxiv.org/abs/2510.11268v1)"
 collection: publications
 category: 2025
 date: 2025-09-19

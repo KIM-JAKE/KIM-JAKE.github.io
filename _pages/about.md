@@ -26,7 +26,7 @@ _In_ Conference on Neural Information Processing Systems (NeurIPS), 2025
 
 ---
 
-![NeurIPS](https://img.shields.io/badge/NeurIPS-2025-CC0000) **[Exploring and Leveraging Class Vectors for Classifier Editing](https://arxiv.org/abs/)**  
+![NeurIPS](https://img.shields.io/badge/NeurIPS-2025-CC0000) **[Exploring and Leveraging Class Vectors for Classifier Editing](https://arxiv.org/abs/2510.11268v1)**  
 <u>Jaeik Kim</u>, Jaeyoung Do  
 _In_ Conference on Neural Information Processing Systems (NeurIPS), 2025
 
