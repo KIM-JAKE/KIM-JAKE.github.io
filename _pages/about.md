@@ -17,8 +17,8 @@ redirect_from:
     color: #000000;
     margin: 0;
     padding: 0;
-    line-height: 1.55;
-    font-size: 19px;
+    line-height: 1.45;
+    font-size: 17px;
   }
 
   /* 가로 100% 레이아웃 */
@@ -30,40 +30,43 @@ redirect_from:
 
   /* 왼쪽 사이드바: 사진과 메뉴 */
   .lecun-sidebar {
-    width: 200px;
-    background-color: #F7F7DF; /* 사이드바 배경 */
+    width: 150px;
+    background-color: #f4e8d1; /* 사이드바 배경 */
     border-right: 1px solid #B0C4DE; /* 구분선 */
-    padding: 20px 15px;
+    padding: 12px 10px;
     vertical-align: top;
   }
 
   .lecun-sidebar img.profile-pic {
-    width: 170px;
-    border: 2px solid #000;
-    margin-bottom: 20px;
+    width: 150px;
+    border: none;
+    margin-bottom: 16px;
   }
 
   .lecun-sidebar a {
     display: block;
     color: #0000EE; /* 일반 링크 */
     text-decoration: none;
-    font-size: 15px;
+    font-size: 14px;
     margin-bottom: 6px;
     font-weight: bold;
-    letter-spacing: 0.5px;
+    letter-spacing: 0.4px;
   }
 
   .lecun-sidebar .nav-divider {
     height: 6px;
-    background-color: #1b3569;
     margin: 12px 0;
+    background: linear-gradient(to bottom, #b7c9df 0%, #5c7aa7 50%, #2d3f5c 100%);
+    border-top: 1px solid #c9d7ea;
+    border-bottom: 1px solid #1a2537;
+    box-shadow: inset 0 1px 0 rgba(255,255,255,0.6);
   }
 
   /* 메인 콘텐츠 영역 */
   .lecun-content {
-    padding: 40px 60px 80px;
+    padding: 35px 55px 70px 3px;
     vertical-align: top;
-    font-size: 19px;
+    font-size: 17px;
   }
 
   /* 르쿤식 파란색 큰 제목 */
@@ -94,9 +97,9 @@ redirect_from:
 
   /* 뱃지 및 리스트 스타일 유지 */
   .lecun-content p, .lecun-content li {
-    font-size: 19px;
-    margin-bottom: 16px;
-    line-height: 1.65;
+    font-size: 17px;
+    margin-bottom: 14px;
+    line-height: 1.55;
   }
   
   .lecun-content a {
