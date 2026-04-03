@@ -26,14 +26,14 @@ My research focuses on **Model Editing and Personalization**, **Diffusion Langua
 ## Preprints
 ### 2026
 
-![arXiv](https://img.shields.io/badge/arXiv-preprint-B31B1B?logo=arxiv&logoColor=white) **[Dynin-Omni : Omnimodal Unified Large Diffusion Language Model](https://github.com/AIDASLab/Dynin-Omni/blob/main/Dynin_Omni_paper.pdf)**  
+![arXiv](https://img.shields.io/badge/arXiv-preprint-B31B1B?logo=arxiv&logoColor=white) **[Dynin-Omni : Omnimodal Unified Large Diffusion Language Model](https://arxiv.org/abs/2604.00007)**  
 <u>Jaeik Kim</u>, Woojin Kim, Jihwan Hong, Yejoon Lee, Sieun Hyeon, Mintaek Lim, Yunseok Han, Dogeun Kim, Hoeun Lee, Hyunggeun Kim, and Jaeyoung Do
 {% include pub-links.html project="https://dynin.ai/omni/" code="https://github.com/AIDASLab/Dynin-Omni" model="https://huggingface.co/snu-aidas/Dynin-Omni" demo="https://huggingface.co/spaces/AIDAS-Lab/Dynin-Omni" %}
 
 ## Conferences
 ### 2026
 
-![CVPR](https://img.shields.io/badge/CVPR-2026-003A8C) **Medic-AD: : Towards Medical Vision-Language Model's Clinical Intelligence**  
+![CVPR](https://img.shields.io/badge/CVPR-2026-003A8C) **[Medic-AD: : Towards Medical Vision-Language Model's Clinical Intelligence](https://arxiv.org/abs/2603.27176v1)**  
 Woohyeon Park, <u>Jaeik Kim</u>, Sunghwan Steve Cho, Pa Hong, Woo Kyoung Jeong, Yoojin Nam, Nam-Joon Kim, Ginny Wong, Ka Chun Cheung, Jaeyoung Do  
 _In_ IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026
 
