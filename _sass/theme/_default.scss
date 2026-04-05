@@ -1,52 +1,59 @@
 /* ==========================================================================
-   DEFAULT THEME - Apple Design System
+   DEFAULT THEME - Premium Academic Design
    ========================================================================== */
 
-/* Apple color palette */
-$apple-black                : #1d1d1f;
-$apple-pure-black           : #000000;
-$apple-light-gray           : #f5f5f7;
-$apple-blue                 : #0071e3;
-$apple-link-blue            : #0066cc;
-$apple-link-blue-dark       : #2997ff;
-$apple-gray-80              : rgba(0, 0, 0, 0.8);
-$apple-gray-48              : rgba(0, 0, 0, 0.48);
-$apple-dark-surface         : #272729;
-$apple-border               : #d2d2d7;
+/* Color palette */
+$ink                        : #18181B;
+$ink-soft                   : #3F3F46;
+$ivory                      : #F8F7F3;
+$surface                    : #FFFFFF;
+$accent                     : #2B5CE6;
+$accent-dark                : #2348D4;
+$accent-bg                  : #EBF0FD;
+$accent-text                : #1D3FA8;
+$border-subtle              : rgba(24, 24, 27, 0.10);
+$muted                      : rgba(24, 24, 27, 0.55);
 
-/* Color codes used for the site */
-$danger-color               : #ff3b30;
-$info-color                 : #0071e3;
-$notice-color               : #8e8e93;
-$success-color              : #34c759;
-$warning-color              : #ff9500;
+/* Legacy compat */
+$gray                       : #71717A;
+$dark-gray                  : #3F3F46;
+$darker-gray                : #27272A;
+$light-gray                 : #A1A1AA;
+$lighter-gray               : #F4F4F5;
 
-/* Other basic settings for the template */
-$border-radius              : 8px;
-$box-shadow                 : rgba(0, 0, 0, 0.22) 3px 5px 30px 0px;
-$global-transition          : all 0.15s ease-in-out;
-$masthead-height            : 48px;
-$navicon-width              : 24px;
+/* Status colors */
+$danger-color               : #DC2626;
+$info-color                 : #2B5CE6;
+$notice-color               : #71717A;
+$success-color              : #059669;
+$warning-color              : #D97706;
+
+/* Layout */
+$border-radius              : 10px;
+$box-shadow                 : 0 4px 20px rgba(24, 24, 27, 0.08);
+$global-transition          : all 0.18s ease-in-out;
+$masthead-height            : 60px;
+$navicon-width              : 22px;
 $navicon-height             : 2px;
-$sidebar-link-max-width     : 250px;
+$sidebar-link-max-width     : 260px;
 $sidebar-screen-min-width   : 1024px;
 
-/* Default light theme - Apple */
+/* Light theme CSS vars */
 :root {
-    --global-base-color                 : #{$apple-blue};
-    --global-bg-color                   : #{$apple-light-gray};
-    --global-footer-bg-color            : #{$apple-light-gray};
-    --global-border-color               : #{$apple-border};
-    --global-dark-border-color          : #c7c7cc;
-    --global-code-background-color      : #f2f2f7;
-    --global-code-text-color            : #{$apple-black};
-    --global-fig-caption-color          : #{$apple-gray-48};
-    --global-link-color                 : #{$apple-link-blue};
-    --global-link-color-hover           : #{$apple-blue};
-    --global-link-color-visited         : #{$apple-link-blue};
-    --global-masthead-link-color        : rgba(255, 255, 255, 0.8);
-    --global-masthead-link-color-hover  : #ffffff;
-    --global-text-color                 : #{$apple-black};
-    --global-text-color-light           : #{$apple-gray-48};
-    --global-thead-color                : #{$apple-light-gray};
+    --global-base-color                 : #{$accent};
+    --global-bg-color                   : #{$ivory};
+    --global-footer-bg-color            : #{$surface};
+    --global-border-color               : #{$border-subtle};
+    --global-dark-border-color          : rgba(24, 24, 27, 0.18);
+    --global-code-background-color      : #F4F4F5;
+    --global-code-text-color            : #{$darker-gray};
+    --global-fig-caption-color          : #{$muted};
+    --global-link-color                 : #{$accent};
+    --global-link-color-hover           : #{$accent-dark};
+    --global-link-color-visited         : #{$accent};
+    --global-masthead-link-color        : #{$muted};
+    --global-masthead-link-color-hover  : #{$ink};
+    --global-text-color                 : #{$ink};
+    --global-text-color-light           : #{$muted};
+    --global-thead-color                : #{$lighter-gray};
 }
