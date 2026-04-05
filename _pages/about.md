@@ -21,7 +21,8 @@ layout: jonbarron
             <p style="text-align:center">
               <a href="mailto:jake630@snu.ac.kr">Email</a> &nbsp;/&nbsp;
               <a href="https://scholar.google.com/citations?user=fwpoQpQAAAAJ&hl=ko">Google Scholar</a> &nbsp;/&nbsp;
-              <a href="https://github.com/KIM-JAKE">GitHub</a>
+              <a href="https://github.com/KIM-JAKE">GitHub</a> &nbsp;/&nbsp;
+              <a href="https://www.linkedin.com/in/jaeik-kim-571200282/">LinkedIn</a>
             </p>
           </td>
           <td style="padding:2.5%;width:37%;max-width:37%">
