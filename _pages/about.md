@@ -70,7 +70,7 @@ layout: jonbarron
             <em>arXiv preprint</em>, 2026
             <br>
             <a href="https://dynin.ai/omni/">project page</a> /
-            <a href="https://arxiv.org/abs/2604.00007">arXiv</a> /
+            <a href="https://arxiv.org/abs/2604.00007">paper</a> /
             <a href="https://github.com/AIDASLab/Dynin-Omni">code</a> /
             <a href="https://huggingface.co/snu-aidas/Dynin-Omni">model</a> /
             <a href="https://huggingface.co/spaces/AIDAS-Lab/Dynin-Omni">demo</a>
@@ -91,7 +91,7 @@ layout: jonbarron
             <br>
             <em>CVPR</em>, 2026
             <br>
-            <a href="https://arxiv.org/abs/2603.27176v1">arXiv</a>
+            <a href="https://arxiv.org/abs/2603.27176v1">paper</a>
           </td>
         </tr>
 
@@ -109,7 +109,9 @@ layout: jonbarron
             <br>
             <em>NeurIPS</em>, 2025
             <br>
-            <a href="https://arxiv.org/abs/2509.22820">arXiv</a>
+            <a href="https://aidaslab.github.io/MMPB/">project page</a> /
+            <a href="https://arxiv.org/abs/2509.22820">paper</a> /
+            <a href="https://huggingface.co/datasets/snu-aidas/MMPB">dataset</a>
           </td>
         </tr>
 
@@ -127,7 +129,8 @@ layout: jonbarron
             <br>
             <em>NeurIPS</em>, 2025
             <br>
-            <a href="https://arxiv.org/abs/2510.11268v1">arXiv</a>
+            <a href="https://aidaslab.github.io/Class-Vector/">project page</a> /
+            <a href="https://arxiv.org/abs/2510.11268v1">paper</a>
           </td>
         </tr>
 
@@ -145,7 +148,8 @@ layout: jonbarron
             <br>
             <em>ICML</em>, 2025
             <br>
-            <a href="https://arxiv.org/abs/2506.08391">arXiv</a>
+            <a href="https://aidaslab.github.io/SECOND/">project page</a> /
+            <a href="https://arxiv.org/abs/2506.08391">paper</a>
           </td>
         </tr>
 
