@@ -56,14 +56,14 @@ layout: jonbarron
       </tbody></table>
 
       <!-- PAPERS TABLE -->
-      <table style="width:100%;border:0px;border-spacing:0px 10px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+      <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
 
         <!-- Dynin-Omni -->
         <tr>
-          <td style="padding:16px;width:20%;vertical-align:middle">
+          <td style="padding:8px;width:20%;vertical-align:middle">
             <div style="width:120px;height:120px;display:flex;align-items:center;justify-content:center;background:#fff;"><img src="/assets/images/papers/dynin-omni.png" style="max-width:120px;max-height:120px;width:auto;height:auto;display:block;border-radius:4px;"></div>
           </td>
-          <td style="padding:20px;width:75%;vertical-align:middle">
+          <td style="padding:8px 16px;width:75%;vertical-align:middle">
             <a href="https://arxiv.org/abs/2604.00007">
               <span class="papertitle">Dynin-Omni: Omnimodal Unified Large Diffusion Language Model</span>
             </a>
@@ -82,10 +82,10 @@ layout: jonbarron
 
         <!-- Medic-AD -->
         <tr>
-          <td style="padding:16px;width:20%;vertical-align:middle">
+          <td style="padding:8px;width:20%;vertical-align:middle">
             <div style="width:120px;height:120px;display:flex;align-items:center;justify-content:center;background:#fff;"><img src="/assets/images/papers/medic-ad.png" style="max-width:120px;max-height:120px;width:auto;height:auto;display:block;border-radius:4px;"></div>
           </td>
-          <td style="padding:20px;width:75%;vertical-align:middle">
+          <td style="padding:8px 16px;width:75%;vertical-align:middle">
             <a href="https://arxiv.org/abs/2603.27176v1">
               <span class="papertitle">Medic-AD: Towards Medical Vision-Language Model's Clinical Intelligence</span>
             </a>
@@ -100,10 +100,10 @@ layout: jonbarron
 
         <!-- MMPB -->
         <tr>
-          <td style="padding:16px;width:20%;vertical-align:middle">
+          <td style="padding:8px;width:20%;vertical-align:middle">
             <div style="width:120px;height:120px;display:flex;align-items:center;justify-content:center;background:#fff;"><img src="/assets/images/papers/mmpb.png" style="max-width:120px;max-height:120px;width:auto;height:auto;display:block;border-radius:4px;"></div>
           </td>
-          <td style="padding:20px;width:75%;vertical-align:middle">
+          <td style="padding:8px 16px;width:75%;vertical-align:middle">
             <a href="https://arxiv.org/abs/2509.22820">
               <span class="papertitle">MMPB: It's Time for Multi-Modal Personalization</span>
             </a>
@@ -120,10 +120,10 @@ layout: jonbarron
 
         <!-- Class Vectors -->
         <tr>
-          <td style="padding:16px;width:20%;vertical-align:middle">
+          <td style="padding:8px;width:20%;vertical-align:middle">
             <div style="width:120px;height:120px;display:flex;align-items:center;justify-content:center;background:#fff;"><img src="/assets/images/papers/class_vector.png" style="max-width:120px;max-height:120px;width:auto;height:auto;display:block;border-radius:4px;"></div>
           </td>
-          <td style="padding:20px;width:75%;vertical-align:middle">
+          <td style="padding:8px 16px;width:75%;vertical-align:middle">
             <a href="https://arxiv.org/abs/2510.11268v1">
               <span class="papertitle">Exploring and Leveraging Class Vectors for Classifier Editing</span>
             </a>
@@ -139,10 +139,10 @@ layout: jonbarron
 
         <!-- SECOND -->
         <tr>
-          <td style="padding:16px;width:20%;vertical-align:middle">
+          <td style="padding:8px;width:20%;vertical-align:middle">
             <div style="width:120px;height:120px;display:flex;align-items:center;justify-content:center;background:#fff;"><img src="/assets/images/papers/second.png" style="max-width:120px;max-height:120px;width:auto;height:auto;display:block;border-radius:4px;"></div>
           </td>
-          <td style="padding:20px;width:75%;vertical-align:middle">
+          <td style="padding:8px 16px;width:75%;vertical-align:middle">
             <a href="https://arxiv.org/abs/2506.08391">
               <span class="papertitle">SECOND: Mitigating Perceptual Hallucination in Vision-Language Models via Selective and Contrastive Decoding</span>
             </a>
