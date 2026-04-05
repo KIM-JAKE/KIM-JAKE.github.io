@@ -1,25 +1,10 @@
 {% assign project_link = include.project | default: include.projecturl %}
-{% assign paper_link = include.paper | default: include.paperurl %}
-{% assign code_link = include.code | default: include.codeurl %}
-{% assign model_link = include.model | default: include.modelurl %}
-{% assign demo_link = include.demo | default: include.demourl %}
+{% assign paper_link   = include.paper   | default: include.paperurl %}
+{% assign arxiv_link   = include.arxiv   | default: include.arxivurl %}
+{% assign code_link    = include.code    | default: include.codeurl %}
+{% assign model_link   = include.model   | default: include.modelurl %}
+{% assign demo_link    = include.demo    | default: include.demourl %}
 
-{% if project_link or paper_link or code_link or model_link or demo_link %}
-<p class="pub-links">
-  {% if project_link %}
-    <a href="{{ project_link }}" target="_blank" rel="noopener noreferrer"><i class="fas fa-globe"></i> Project Page</a>
-  {% endif %}
-  {% if paper_link %}
-    <a href="{{ paper_link }}" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-alt"></i> Paper</a>
-  {% endif %}
-  {% if code_link %}
-    <a href="{{ code_link }}" target="_blank" rel="noopener noreferrer"><i class="fab fa-github"></i> Code</a>
-  {% endif %}
-  {% if model_link %}
-    <a href="{{ model_link }}" target="_blank" rel="noopener noreferrer"><i class="fas fa-cube"></i> Model</a>
-  {% endif %}
-  {% if demo_link %}
-    <a href="{{ demo_link }}" target="_blank" rel="noopener noreferrer"><i class="fas fa-tv"></i> Demo</a>
-  {% endif %}
-</p>
+{% if project_link or paper_link or arxiv_link or code_link or model_link or demo_link %}
+<p class="pub-links">{% assign first = true %}{% if project_link %}{% assign first = false %}<a href="{{ project_link }}" target="_blank" rel="noopener noreferrer">project page</a>{% endif %}{% if paper_link %}{% unless first %} / {% endunless %}{% assign first = false %}<a href="{{ paper_link }}" target="_blank" rel="noopener noreferrer">paper</a>{% endif %}{% if arxiv_link %}{% unless first %} / {% endunless %}{% assign first = false %}<a href="{{ arxiv_link }}" target="_blank" rel="noopener noreferrer">arXiv</a>{% endif %}{% if code_link %}{% unless first %} / {% endunless %}{% assign first = false %}<a href="{{ code_link }}" target="_blank" rel="noopener noreferrer">code</a>{% endif %}{% if model_link %}{% unless first %} / {% endunless %}{% assign first = false %}<a href="{{ model_link }}" target="_blank" rel="noopener noreferrer">model</a>{% endif %}{% if demo_link %}{% unless first %} / {% endunless %}<a href="{{ demo_link }}" target="_blank" rel="noopener noreferrer">demo</a>{% endif %}</p>
 {% endif %}

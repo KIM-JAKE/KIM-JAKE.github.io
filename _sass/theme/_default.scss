@@ -41,8 +41,8 @@ $sidebar-screen-min-width   : 1024px;
 /* Light theme CSS vars */
 :root {
     --global-base-color                 : #{$accent};
-    --global-bg-color                   : #{$ivory};
-    --global-footer-bg-color            : #{$surface};
+    --global-bg-color                   : #FFFFFF;
+    --global-footer-bg-color            : #FFFFFF;
     --global-border-color               : #{$border-subtle};
     --global-dark-border-color          : rgba(24, 24, 27, 0.18);
     --global-code-background-color      : #F4F4F5;
