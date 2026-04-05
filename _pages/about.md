@@ -16,10 +16,10 @@ layout: jonbarron
               I'm an M.S. student at <a href="https://aidas.snu.ac.kr/">AIDAS Lab</a>, Seoul National University, advised by <a href="https://sites.google.com/view/jaeyoungdo">Jaeyoung Do</a>.
             </p>
             <p>
-              <strong>Research Keywords:</strong> Model Editing &amp; Personalization / Diffusion Language Models / Omnimodal Models / Robotics
+              <strong>Research Keywords:</strong> Diffusion Language Models / Omnimodal Models / Robotics / Model Editing &amp; Personalization
             </p>
             <p style="text-align:center">
-              <a href="/thoughts/">Personal Thoughts</a>
+              <a href="/thoughts/">My Thoughts</a>
             </p>
             <p style="text-align:center">
               <a href="mailto:jake630@snu.ac.kr">Email</a> &nbsp;/&nbsp;
