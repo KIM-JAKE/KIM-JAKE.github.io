@@ -14,7 +14,9 @@ layout: jonbarron
             <p class="name" style="text-align:center;">Jaeik Kim</p>
             <p>
               I'm an M.S. student at <a href="https://aidas.snu.ac.kr/">AIDAS Lab</a>, Seoul National University, advised by <a href="https://sites.google.com/view/jaeyoungdo">Jaeyoung Do</a>.
-              My research interests include model editing &amp; personalization, diffusion language models, and omnimodal models.
+            </p>
+            <p>
+              <strong>Model Editing &amp; Personalization</strong> / <strong>Diffusion Language Models</strong> / <strong>Omnimodal Models</strong> / <strong>Robotics</strong>
             </p>
             <p style="text-align:center">
               <a href="mailto:jake630@snu.ac.kr">Email</a> &nbsp;/&nbsp;
