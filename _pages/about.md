@@ -25,8 +25,8 @@ layout: jonbarron
               <a href="https://www.linkedin.com/in/jaeik-kim-571200282/">LinkedIn</a>
             </p>
           </td>
-          <td style="padding:2.5%;width:37%;max-width:37%">
-            <img style="width:100%;max-width:100%;object-fit:cover;border-radius:50%;" alt="profile photo" src="/images/myprofile.png">
+          <td style="padding:2.5%;width:37%;max-width:37%;text-align:center;">
+            <img style="width:140px;height:140px;object-fit:cover;border-radius:50%;" alt="profile photo" src="/images/myprofile.png">
           </td>
         </tr>
       </tbody></table>
@@ -60,10 +60,10 @@ layout: jonbarron
 
         <!-- Dynin-Omni -->
         <tr>
-          <td style="padding:8px;width:20%;vertical-align:middle">
+          <td style="padding:16px 8px;width:20%;vertical-align:top;border-top:1px solid #ebebeb">
             <div style="width:120px;height:120px;display:flex;align-items:center;justify-content:center;background:#fff;"><img src="/assets/images/papers/dynin-omni.png" style="max-width:120px;max-height:120px;width:auto;height:auto;display:block;border-radius:4px;"></div>
           </td>
-          <td style="padding:8px 16px;width:75%;vertical-align:middle">
+          <td style="padding:16px;width:75%;vertical-align:top;border-top:1px solid #ebebeb">
             <a href="https://arxiv.org/abs/2604.00007">
               <span class="papertitle">Dynin-Omni: Omnimodal Unified Large Diffusion Language Model</span>
             </a>
@@ -82,10 +82,10 @@ layout: jonbarron
 
         <!-- Medic-AD -->
         <tr>
-          <td style="padding:8px;width:20%;vertical-align:middle">
+          <td style="padding:16px 8px;width:20%;vertical-align:top;border-top:1px solid #ebebeb">
             <div style="width:120px;height:120px;display:flex;align-items:center;justify-content:center;background:#fff;"><img src="/assets/images/papers/medic-ad.png" style="max-width:120px;max-height:120px;width:auto;height:auto;display:block;border-radius:4px;"></div>
           </td>
-          <td style="padding:8px 16px;width:75%;vertical-align:middle">
+          <td style="padding:16px;width:75%;vertical-align:top;border-top:1px solid #ebebeb">
             <a href="https://arxiv.org/abs/2603.27176v1">
               <span class="papertitle">Medic-AD: Towards Medical Vision-Language Model's Clinical Intelligence</span>
             </a>
@@ -100,10 +100,10 @@ layout: jonbarron
 
         <!-- MMPB -->
         <tr>
-          <td style="padding:8px;width:20%;vertical-align:middle">
+          <td style="padding:16px 8px;width:20%;vertical-align:top;border-top:1px solid #ebebeb">
             <div style="width:120px;height:120px;display:flex;align-items:center;justify-content:center;background:#fff;"><img src="/assets/images/papers/mmpb.png" style="max-width:120px;max-height:120px;width:auto;height:auto;display:block;border-radius:4px;"></div>
           </td>
-          <td style="padding:8px 16px;width:75%;vertical-align:middle">
+          <td style="padding:16px;width:75%;vertical-align:top;border-top:1px solid #ebebeb">
             <a href="https://arxiv.org/abs/2509.22820">
               <span class="papertitle">MMPB: It's Time for Multi-Modal Personalization</span>
             </a>
@@ -120,10 +120,10 @@ layout: jonbarron
 
         <!-- Class Vectors -->
         <tr>
-          <td style="padding:8px;width:20%;vertical-align:middle">
+          <td style="padding:16px 8px;width:20%;vertical-align:top;border-top:1px solid #ebebeb">
             <div style="width:120px;height:120px;display:flex;align-items:center;justify-content:center;background:#fff;"><img src="/assets/images/papers/class_vector.png" style="max-width:120px;max-height:120px;width:auto;height:auto;display:block;border-radius:4px;"></div>
           </td>
-          <td style="padding:8px 16px;width:75%;vertical-align:middle">
+          <td style="padding:16px;width:75%;vertical-align:top;border-top:1px solid #ebebeb">
             <a href="https://arxiv.org/abs/2510.11268v1">
               <span class="papertitle">Exploring and Leveraging Class Vectors for Classifier Editing</span>
             </a>
@@ -139,10 +139,10 @@ layout: jonbarron
 
         <!-- SECOND -->
         <tr>
-          <td style="padding:8px;width:20%;vertical-align:middle">
+          <td style="padding:16px 8px;width:20%;vertical-align:top;border-top:1px solid #ebebeb">
             <div style="width:120px;height:120px;display:flex;align-items:center;justify-content:center;background:#fff;"><img src="/assets/images/papers/second.png" style="max-width:120px;max-height:120px;width:auto;height:auto;display:block;border-radius:4px;"></div>
           </td>
-          <td style="padding:8px 16px;width:75%;vertical-align:middle">
+          <td style="padding:16px;width:75%;vertical-align:top;border-top:1px solid #ebebeb">
             <a href="https://arxiv.org/abs/2506.08391">
               <span class="papertitle">SECOND: Mitigating Perceptual Hallucination in Vision-Language Models via Selective and Contrastive Decoding</span>
             </a>
