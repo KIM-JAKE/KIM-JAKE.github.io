@@ -58,7 +58,7 @@ layout: jonbarron
         <!-- Dynin-Omni -->
         <tr>
           <td style="padding:16px;width:20%;vertical-align:middle">
-            <div style="width:160px;height:160px;display:flex;align-items:center;justify-content:center;background:#fff;"><img src="/assets/images/papers/dynin-omni.jpg" style="max-width:160px;max-height:160px;width:auto;height:auto;display:block;border-radius:4px;"></div>
+            <div style="width:160px;height:160px;display:flex;align-items:center;justify-content:center;background:#fff;"><img src="/assets/images/papers/dynin-omni.png" style="max-width:160px;max-height:160px;width:auto;height:auto;display:block;border-radius:4px;"></div>
           </td>
           <td style="padding:20px;width:75%;vertical-align:middle">
             <a href="https://arxiv.org/abs/2604.00007">
@@ -80,7 +80,7 @@ layout: jonbarron
         <!-- Medic-AD -->
         <tr>
           <td style="padding:16px;width:20%;vertical-align:middle">
-            <div style="width:160px;height:160px;display:flex;align-items:center;justify-content:center;background:#fff;"><img src="/assets/images/papers/medic-ad.jpg" style="max-width:160px;max-height:160px;width:auto;height:auto;display:block;border-radius:4px;"></div>
+            <div style="width:160px;height:160px;display:flex;align-items:center;justify-content:center;background:#fff;"><img src="/assets/images/papers/medic-ad.png" style="max-width:160px;max-height:160px;width:auto;height:auto;display:block;border-radius:4px;"></div>
           </td>
           <td style="padding:20px;width:75%;vertical-align:middle">
             <a href="https://arxiv.org/abs/2603.27176v1">
@@ -98,7 +98,7 @@ layout: jonbarron
         <!-- MMPB -->
         <tr>
           <td style="padding:16px;width:20%;vertical-align:middle">
-            <div style="width:160px;height:160px;display:flex;align-items:center;justify-content:center;background:#fff;"><img src="/assets/images/papers/mmpb.jpg" style="max-width:160px;max-height:160px;width:auto;height:auto;display:block;border-radius:4px;"></div>
+            <div style="width:160px;height:160px;display:flex;align-items:center;justify-content:center;background:#fff;"><img src="/assets/images/papers/mmpb.png" style="max-width:160px;max-height:160px;width:auto;height:auto;display:block;border-radius:4px;"></div>
           </td>
           <td style="padding:20px;width:75%;vertical-align:middle">
             <a href="https://arxiv.org/abs/2509.22820">
@@ -116,7 +116,7 @@ layout: jonbarron
         <!-- Class Vectors -->
         <tr>
           <td style="padding:16px;width:20%;vertical-align:middle">
-            <div style="width:160px;height:160px;display:flex;align-items:center;justify-content:center;background:#fff;"><img src="/assets/images/papers/class-vectors.jpg" style="max-width:160px;max-height:160px;width:auto;height:auto;display:block;border-radius:4px;"></div>
+            <div style="width:160px;height:160px;display:flex;align-items:center;justify-content:center;background:#fff;"><img src="/assets/images/papers/class_vector.png" style="max-width:160px;max-height:160px;width:auto;height:auto;display:block;border-radius:4px;"></div>
           </td>
           <td style="padding:20px;width:75%;vertical-align:middle">
             <a href="https://arxiv.org/abs/2510.11268v1">
@@ -134,7 +134,7 @@ layout: jonbarron
         <!-- SECOND -->
         <tr>
           <td style="padding:16px;width:20%;vertical-align:middle">
-            <div style="width:160px;height:160px;display:flex;align-items:center;justify-content:center;background:#fff;"><img src="/assets/images/papers/second.jpg" style="max-width:160px;max-height:160px;width:auto;height:auto;display:block;border-radius:4px;"></div>
+            <div style="width:160px;height:160px;display:flex;align-items:center;justify-content:center;background:#fff;"><img src="/assets/images/papers/second.png" style="max-width:160px;max-height:160px;width:auto;height:auto;display:block;border-radius:4px;"></div>
           </td>
           <td style="padding:20px;width:75%;vertical-align:middle">
             <a href="https://arxiv.org/abs/2506.08391">
