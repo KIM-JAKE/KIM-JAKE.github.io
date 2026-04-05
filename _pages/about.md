@@ -16,7 +16,7 @@ layout: jonbarron
               I'm an M.S. student at <a href="https://aidas.snu.ac.kr/">AIDAS Lab</a>, Seoul National University, advised by <a href="https://sites.google.com/view/jaeyoungdo">Jaeyoung Do</a>.
             </p>
             <p>
-              Research Keywords: <strong>Model Editing &amp; Personalization</strong> / <strong>Diffusion Language Models</strong> / <strong>Omnimodal Models</strong> / <strong>Robotics</strong>
+              <strong>Research Keywords:</strong> Model Editing &amp; Personalization / Diffusion Language Models / Omnimodal Models / Robotics
             </p>
             <p style="text-align:center">
               <a href="mailto:jake630@snu.ac.kr">Email</a> &nbsp;/&nbsp;
@@ -61,7 +61,7 @@ layout: jonbarron
         <!-- Dynin-Omni -->
         <tr>
           <td style="padding:16px;width:20%;vertical-align:middle">
-            <div style="width:160px;height:160px;display:flex;align-items:center;justify-content:center;background:#fff;"><img src="/assets/images/papers/dynin-omni.png" style="max-width:160px;max-height:160px;width:auto;height:auto;display:block;border-radius:4px;"></div>
+            <div style="width:220px;height:220px;display:flex;align-items:center;justify-content:center;background:#fff;"><img src="/assets/images/papers/dynin-omni.png" style="max-width:220px;max-height:220px;width:auto;height:auto;display:block;border-radius:4px;"></div>
           </td>
           <td style="padding:20px;width:75%;vertical-align:middle">
             <a href="https://arxiv.org/abs/2604.00007">
@@ -83,7 +83,7 @@ layout: jonbarron
         <!-- Medic-AD -->
         <tr>
           <td style="padding:16px;width:20%;vertical-align:middle">
-            <div style="width:160px;height:160px;display:flex;align-items:center;justify-content:center;background:#fff;"><img src="/assets/images/papers/medic-ad.png" style="max-width:160px;max-height:160px;width:auto;height:auto;display:block;border-radius:4px;"></div>
+            <div style="width:220px;height:220px;display:flex;align-items:center;justify-content:center;background:#fff;"><img src="/assets/images/papers/medic-ad.png" style="max-width:220px;max-height:220px;width:auto;height:auto;display:block;border-radius:4px;"></div>
           </td>
           <td style="padding:20px;width:75%;vertical-align:middle">
             <a href="https://arxiv.org/abs/2603.27176v1">
@@ -101,7 +101,7 @@ layout: jonbarron
         <!-- MMPB -->
         <tr>
           <td style="padding:16px;width:20%;vertical-align:middle">
-            <div style="width:160px;height:160px;display:flex;align-items:center;justify-content:center;background:#fff;"><img src="/assets/images/papers/mmpb.png" style="max-width:160px;max-height:160px;width:auto;height:auto;display:block;border-radius:4px;"></div>
+            <div style="width:220px;height:220px;display:flex;align-items:center;justify-content:center;background:#fff;"><img src="/assets/images/papers/mmpb.png" style="max-width:220px;max-height:220px;width:auto;height:auto;display:block;border-radius:4px;"></div>
           </td>
           <td style="padding:20px;width:75%;vertical-align:middle">
             <a href="https://arxiv.org/abs/2509.22820">
@@ -121,7 +121,7 @@ layout: jonbarron
         <!-- Class Vectors -->
         <tr>
           <td style="padding:16px;width:20%;vertical-align:middle">
-            <div style="width:160px;height:160px;display:flex;align-items:center;justify-content:center;background:#fff;"><img src="/assets/images/papers/class_vector.png" style="max-width:160px;max-height:160px;width:auto;height:auto;display:block;border-radius:4px;"></div>
+            <div style="width:220px;height:220px;display:flex;align-items:center;justify-content:center;background:#fff;"><img src="/assets/images/papers/class_vector.png" style="max-width:220px;max-height:220px;width:auto;height:auto;display:block;border-radius:4px;"></div>
           </td>
           <td style="padding:20px;width:75%;vertical-align:middle">
             <a href="https://arxiv.org/abs/2510.11268v1">
@@ -140,7 +140,7 @@ layout: jonbarron
         <!-- SECOND -->
         <tr>
           <td style="padding:16px;width:20%;vertical-align:middle">
-            <div style="width:160px;height:160px;display:flex;align-items:center;justify-content:center;background:#fff;"><img src="/assets/images/papers/second.png" style="max-width:160px;max-height:160px;width:auto;height:auto;display:block;border-radius:4px;"></div>
+            <div style="width:220px;height:220px;display:flex;align-items:center;justify-content:center;background:#fff;"><img src="/assets/images/papers/second.png" style="max-width:220px;max-height:220px;width:auto;height:auto;display:block;border-radius:4px;"></div>
           </td>
           <td style="padding:20px;width:75%;vertical-align:middle">
             <a href="https://arxiv.org/abs/2506.08391">
