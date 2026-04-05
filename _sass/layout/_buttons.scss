@@ -1,114 +1,76 @@
 /* ==========================================================================
-   BUTTONS
-   ========================================================================== */
-
-/*
-   Default button
+   BUTTONS - Premium Academic Style
    ========================================================================== */
 
 .btn {
-  /* Apple-style pill button */
   display: inline-block;
   margin-bottom: 0.25em;
-  padding: 8px 22px;
+  padding: 7px 18px;
   color: #fff !important;
   font-family: $sans-serif;
-  font-size: 17px;
-  font-weight: 400;
+  font-size: 13.5px;
+  font-weight: 500;
   text-align: center;
   text-decoration: none;
   background-color: var(--global-base-color);
   border: 0 !important;
-  border-radius: 980px;
+  border-radius: 8px;
   cursor: pointer;
-  letter-spacing: -0.374px;
-  transition: opacity 0.15s;
+  letter-spacing: 0;
+  transition: all 0.18s ease-in-out;
 
   &:hover {
-    opacity: 0.88;
-    background-color: var(--global-base-color);
+    background-color: mix(#000, #2B5CE6, 15%);
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(43, 92, 230, 0.28);
   }
 
-  .icon {
-    margin-right: 0.5em;
-  }
-
-  .icon + .hidden {
-    margin-left: -0.5em; /* override for hidden text*/
-  }
-
-  /* fills width of parent container */
+  .icon { margin-right: 0.5em; }
+  .icon + .hidden { margin-left: -0.5em; }
 
   &--block {
     display: block;
     width: 100%;
-
-    + .btn--block {
-      margin-top: 0.25em;
-    }
+    + .btn--block { margin-top: 0.25em; }
   }
-
-  /* for dark backgrounds */
 
   &--inverse {
     color: var(--global-text-color-light) !important;
-    border: 1px solid var(--global-border-color) !important; /* override*/
-    background-color: var(--global-bg-color);
+    border: 1px solid var(--global-border-color) !important;
+    background-color: transparent;
 
     &:hover {
-      color: #fff !important;
-      border-color: var(--global-text-color-light);
+      color: var(--global-text-color) !important;
+      background: rgba(24,24,27,0.06);
+      box-shadow: none;
+      transform: none;
     }
   }
 
-  /* light outline */
-
   &--light-outline {
-    border: 1px solid #fff !important; /* override*/
+    border: 1px solid rgba(255,255,255,0.6) !important;
     background-color: transparent;
   }
 
-  /* information */
-
   &--info {
     background-color: $info-color;
-
-    &:hover {
-      background-color: mix(#000, $info-color, 20%);
-    }
+    &:hover { background-color: mix(#000, $info-color, 15%); }
   }
-
-  /* warning */
 
   &--warning {
     background-color: $warning-color;
-
-    &:hover {
-      background-color: mix(#000, $warning-color, 20%);
-    }
+    &:hover { background-color: mix(#000, $warning-color, 15%); }
   }
-
-  /* success */
 
   &--success {
     background-color: $success-color;
-
-    &:hover {
-      background-color: mix(#000, $success-color, 20%);
-    }
+    &:hover { background-color: mix(#000, $success-color, 15%); }
   }
-
-  /* danger */
 
   &--danger {
     background-color: $danger-color;
-
-    &:hover {
-      background-color: mix(#000, $danger-color, 20%);
-    }
+    &:hover { background-color: mix(#000, $danger-color, 15%); }
   }
-
-  /* disabled */
 
   &--disabled {
     pointer-events: none;
@@ -117,8 +79,6 @@
     box-shadow: none;
     opacity: 0.65;
   }
-
-  /* social buttons */
 
   $social:
   (bluesky, $bluesky-color),
@@ -130,28 +90,11 @@
   @each $socialnetwork, $color in $social {
     &--#{$socialnetwork} {
       background-color: $color;
-
-      &:hover {
-        background-color: mix(#000, $color, 20%);
-      }
+      &:hover { background-color: mix(#000, $color, 15%); }
     }
   }
 
-  /* extra large button */
-
-  &--x-large {
-    font-size: $type-size-4;
-  }
-
-  /* large button */
-
-  &--large {
-    font-size: $type-size-5;
-  }
-
-  /* small button */
-
-  &--small {
-    font-size: $type-size-7;
-  }
+  &--x-large { font-size: $type-size-4; }
+  &--large   { font-size: $type-size-5; }
+  &--small   { font-size: $type-size-7; }
 }

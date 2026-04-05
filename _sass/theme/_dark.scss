@@ -2,127 +2,22 @@
    DARK THEME
    ========================================================================== */
 
-/* Color codes used for the theme */
-$gray                       : #7a8288;
-$dark-gray                  : mix(#000, $gray, 40%);
-$darker-gray                : mix(#000, $gray, 60%);
-$light-gray                 : mix(#fff, $gray, 50%);
-
-$background                 : #474747;
-$background-light           : mix(#fff, $background, 80%);
-$background-lighter         : mix(#fff, $background, 90%);
-$text                       : #ffffff;
-$link                       : #0ea1c5;
-$link-dark                  : mix(#000, $link, 25%);
-$link-light                 : mix(#fff, $link, 25%);
-
-/* Color codes used for the site */
-$danger-color               : #ee5f5b;
-$info-color                 : #2f7f93;
-$notice-color               : #7a8288;
-$success-color              : #62c462;
-$warning-color              : #f89406;
-
-/* Other basic settings for the template */
-$border-radius              : 4px;
-$box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
-$global-transition          : all 0.2s ease-in-out;
-$masthead-height            : 70px;
-$navicon-width              : 28px;
-$navicon-height             : 4px;
-$sidebar-link-max-width     : 250px;
-$sidebar-screen-min-width   : 1024px;
-
-/* Dark theme - Apple dark surfaces */
+/* Dark theme CSS vars override - premium dark academic */
 html[data-theme="dark"] {
-    --global-base-color                 : #0071e3;
-    --global-bg-color                   : #000000;
-    --global-footer-bg-color            : #1c1c1e;
-    --global-border-color               : rgba(255, 255, 255, 0.15);
-    --global-dark-border-color          : rgba(255, 255, 255, 0.2);
-    --global-code-background-color      : #1c1c1e;
-    --global-code-text-color            : #e5e5ea;
-    --global-fig-caption-color          : rgba(255, 255, 255, 0.48);
-    --global-link-color                 : #2997ff;
-    --global-link-color-hover           : #64b5f6;
-    --global-link-color-visited         : #2997ff;
-    --global-masthead-link-color        : rgba(255, 255, 255, 0.8);
-    --global-masthead-link-color-hover  : #ffffff;
-    --global-text-color                 : #ffffff;
-    --global-text-color-light           : rgba(255, 255, 255, 0.48);
-    --global-thead-color                : #1c1c1e;
-}
-
-/* Dark theme content overrides */
-html[data-theme="dark"] #main {
-    background: #1c1c1e;
-    box-shadow: rgba(0, 0, 0, 0.5) 0px 2px 20px 0px;
-}
-
-html[data-theme="dark"] .sidebar.sticky {
-    background: #272729;
-    box-shadow: rgba(0, 0, 0, 0.5) 0px 2px 20px 0px;
-}
-
-html[data-theme="dark"] a {
-    color: #2997ff;
-}
-
-html[data-theme="dark"] a:hover {
-    color: #64b5f6;
-}
-
-html[data-theme="dark"] .page__title,
-html[data-theme="dark"] .page__content h2,
-html[data-theme="dark"] .page__content h3,
-html[data-theme="dark"] .archive__item-title a {
-    color: #ffffff;
-}
-
-html[data-theme="dark"] .archive__item-title a:hover {
-    color: #2997ff;
-}
-
-html[data-theme="dark"] .archive__item-excerpt {
-    color: rgba(255, 255, 255, 0.7);
-}
-
-html[data-theme="dark"] .archive__item-layout--publication {
-    border-bottom-color: rgba(255, 255, 255, 0.1);
-}
-
-html[data-theme="dark"] .page__content h2 {
-    border-bottom-color: rgba(255, 255, 255, 0.1);
-}
-
-html[data-theme="dark"] .page__taxonomy-item {
-    border-color: rgba(255, 255, 255, 0.2);
-    color: #2997ff;
-}
-
-html[data-theme="dark"] .page__taxonomy-item:hover {
-    background: #0071e3;
-    border-color: #0071e3;
-    color: #fff;
-}
-
-html[data-theme="dark"] .notice {
-    background: #272729;
-}
-
-html[data-theme="dark"] .pub-links a {
-    color: #2997ff;
-}
-
-html[data-theme="dark"] .pub-links a:hover {
-    color: #64b5f6;
-}
-
-html[data-theme="dark"] .section-title--bar::before {
-    background: #2997ff;
-}
-
-html[data-theme="dark"] .page__footer {
-    background-color: #1c1c1e;
-    border-top-color: rgba(255, 255, 255, 0.1);
+    --global-base-color                 : #6B8EF5;
+    --global-bg-color                   : #0D0D14;
+    --global-footer-bg-color            : #18182A;
+    --global-border-color               : rgba(232,232,242,0.12);
+    --global-dark-border-color          : rgba(232,232,242,0.18);
+    --global-code-background-color      : rgba(107,142,245,0.1);
+    --global-code-text-color            : #9BB3FA;
+    --global-fig-caption-color          : rgba(232,232,242,0.5);
+    --global-link-color                 : #6B8EF5;
+    --global-link-color-hover           : #7A9CF7;
+    --global-link-color-visited         : #6B8EF5;
+    --global-masthead-link-color        : rgba(232,232,242,0.62);
+    --global-masthead-link-color-hover  : #E8E8F2;
+    --global-text-color                 : #E8E8F2;
+    --global-text-color-light           : rgba(232,232,242,0.55);
+    --global-thead-color                : #18182A;
 }
