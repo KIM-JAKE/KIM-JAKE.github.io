@@ -4,8 +4,9 @@
 
 .page__footer {
   @include clearfix;
-  background-color: var(--global-footer-bg-color);
-  color: var(--global-text-color-light);
+  background-color: #f5f5f7;
+  color: rgba(0, 0, 0, 0.48);
+  border-top: 1px solid #d2d2d7;
 
   float: left;
   margin-left: 0;
@@ -25,7 +26,7 @@
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.45s;
           animation-delay: 0.45s;
-  border-top: 1px solid var(--global-dark-border-color);
+  /* border already set above */
 
   footer {
     @include clearfix;

@@ -4,8 +4,10 @@
 
 .masthead {
   position: fixed;
-  background: var(--global-bg-color);
-  height: fit-content;
+  background: rgba(0, 0, 0, 0.8);
+  backdrop-filter: saturate(180%) blur(20px);
+  -webkit-backdrop-filter: saturate(180%) blur(20px);
+  height: $masthead-height;
   top: 0;
   width: 100%;
 
@@ -16,19 +18,17 @@
   z-index: 20;
 
   &::after {
-    content: "";
-    position: absolute;
-    bottom: 0;
-    height: 1px;
-    background: var(--global-border-color);
-    width: 100%;
+    content: none;
   }
 
   &__inner-wrap {
     @include container;
     @include clearfix;
-    padding: 0.5em 1em;
-    font-family: $sans-serif-narrow;
+    padding: 0 2em;
+    height: $masthead-height;
+    display: flex;
+    align-items: center;
+    font-family: $sans-serif;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
@@ -55,13 +55,15 @@
 }
 
 .masthead__menu-item {
-  background-color: var(--global-bg-color);
+  background-color: transparent;
   display: block;
   list-style-type: none;
   white-space: nowrap;
 
   &--lg {
     padding-right: 2em;
-    font-weight: 700;
+    font-weight: 600;
+    font-size: 14px;
+    letter-spacing: -0.28px;
   }
 }
