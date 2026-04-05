@@ -33,22 +33,96 @@ $navicon-height             : 4px;
 $sidebar-link-max-width     : 250px;
 $sidebar-screen-min-width   : 1024px;
 
-/* Dark theme for the site */
+/* Dark theme - Apple dark surfaces */
 html[data-theme="dark"] {
-    --global-base-color                 : #{$background};
-    --global-bg-color                   : #{$background};
-    --global-footer-bg-color            : #{$background};
-    --global-border-color               : #{$light-gray};
-    --global-dark-border-color          : #{$background-light};
-    --global-code-background-color      : #fafafa;
-    --global-code-text-color            : #{$darker-gray};
-    --global-fig-caption-color          : #{$light-gray};
-    --global-link-color                 : #{$link};
-    --global-link-color-hover           : #{$link-dark};
-    --global-link-color-visited         : #{$link-light};
-    --global-masthead-link-color        : #{$text};
-    --global-masthead-link-color-hover  : #{$background-light};
-    --global-text-color                 : #{$text};
-    --global-text-color-light           : #{$light-gray};
-    --global-thead-color                : #{$background-lighter};
+    --global-base-color                 : #0071e3;
+    --global-bg-color                   : #000000;
+    --global-footer-bg-color            : #1c1c1e;
+    --global-border-color               : rgba(255, 255, 255, 0.15);
+    --global-dark-border-color          : rgba(255, 255, 255, 0.2);
+    --global-code-background-color      : #1c1c1e;
+    --global-code-text-color            : #e5e5ea;
+    --global-fig-caption-color          : rgba(255, 255, 255, 0.48);
+    --global-link-color                 : #2997ff;
+    --global-link-color-hover           : #64b5f6;
+    --global-link-color-visited         : #2997ff;
+    --global-masthead-link-color        : rgba(255, 255, 255, 0.8);
+    --global-masthead-link-color-hover  : #ffffff;
+    --global-text-color                 : #ffffff;
+    --global-text-color-light           : rgba(255, 255, 255, 0.48);
+    --global-thead-color                : #1c1c1e;
+}
+
+/* Dark theme content overrides */
+html[data-theme="dark"] #main {
+    background: #1c1c1e;
+    box-shadow: rgba(0, 0, 0, 0.5) 0px 2px 20px 0px;
+}
+
+html[data-theme="dark"] .sidebar.sticky {
+    background: #272729;
+    box-shadow: rgba(0, 0, 0, 0.5) 0px 2px 20px 0px;
+}
+
+html[data-theme="dark"] a {
+    color: #2997ff;
+}
+
+html[data-theme="dark"] a:hover {
+    color: #64b5f6;
+}
+
+html[data-theme="dark"] .page__title,
+html[data-theme="dark"] .page__content h2,
+html[data-theme="dark"] .page__content h3,
+html[data-theme="dark"] .archive__item-title a {
+    color: #ffffff;
+}
+
+html[data-theme="dark"] .archive__item-title a:hover {
+    color: #2997ff;
+}
+
+html[data-theme="dark"] .archive__item-excerpt {
+    color: rgba(255, 255, 255, 0.7);
+}
+
+html[data-theme="dark"] .archive__item-layout--publication {
+    border-bottom-color: rgba(255, 255, 255, 0.1);
+}
+
+html[data-theme="dark"] .page__content h2 {
+    border-bottom-color: rgba(255, 255, 255, 0.1);
+}
+
+html[data-theme="dark"] .page__taxonomy-item {
+    border-color: rgba(255, 255, 255, 0.2);
+    color: #2997ff;
+}
+
+html[data-theme="dark"] .page__taxonomy-item:hover {
+    background: #0071e3;
+    border-color: #0071e3;
+    color: #fff;
+}
+
+html[data-theme="dark"] .notice {
+    background: #272729;
+}
+
+html[data-theme="dark"] .pub-links a {
+    color: #2997ff;
+}
+
+html[data-theme="dark"] .pub-links a:hover {
+    color: #64b5f6;
+}
+
+html[data-theme="dark"] .section-title--bar::before {
+    background: #2997ff;
+}
+
+html[data-theme="dark"] .page__footer {
+    background-color: #1c1c1e;
+    border-top-color: rgba(255, 255, 255, 0.1);
 }
