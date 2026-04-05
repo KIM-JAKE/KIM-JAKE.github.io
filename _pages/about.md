@@ -48,7 +48,6 @@ layout: jonbarron
         <tr>
           <td style="padding:16px;width:100%;vertical-align:middle">
             <h2>Publications</h2>
-            <p>* denotes equal contribution.</p>
           </td>
         </tr>
       </tbody></table>
@@ -59,7 +58,7 @@ layout: jonbarron
         <!-- Dynin-Omni -->
         <tr>
           <td style="padding:16px;width:20%;vertical-align:middle">
-            <img src="/assets/images/papers/dynin-omni.jpg" width="160" style="border-radius:4px;">
+            <div style="width:160px;height:160px;display:flex;align-items:center;justify-content:center;background:#fff;"><img src="/assets/images/papers/dynin-omni.jpg" style="max-width:160px;max-height:160px;width:auto;height:auto;display:block;border-radius:4px;"></div>
           </td>
           <td style="padding:20px;width:75%;vertical-align:middle">
             <a href="https://arxiv.org/abs/2604.00007">
@@ -81,7 +80,7 @@ layout: jonbarron
         <!-- Medic-AD -->
         <tr>
           <td style="padding:16px;width:20%;vertical-align:middle">
-            <img src="/assets/images/papers/medic-ad.jpg" width="160" style="border-radius:4px;">
+            <div style="width:160px;height:160px;display:flex;align-items:center;justify-content:center;background:#fff;"><img src="/assets/images/papers/medic-ad.jpg" style="max-width:160px;max-height:160px;width:auto;height:auto;display:block;border-radius:4px;"></div>
           </td>
           <td style="padding:20px;width:75%;vertical-align:middle">
             <a href="https://arxiv.org/abs/2603.27176v1">
@@ -99,7 +98,7 @@ layout: jonbarron
         <!-- MMPB -->
         <tr>
           <td style="padding:16px;width:20%;vertical-align:middle">
-            <img src="/assets/images/papers/mmpb.jpg" width="160" style="border-radius:4px;">
+            <div style="width:160px;height:160px;display:flex;align-items:center;justify-content:center;background:#fff;"><img src="/assets/images/papers/mmpb.jpg" style="max-width:160px;max-height:160px;width:auto;height:auto;display:block;border-radius:4px;"></div>
           </td>
           <td style="padding:20px;width:75%;vertical-align:middle">
             <a href="https://arxiv.org/abs/2509.22820">
@@ -117,7 +116,7 @@ layout: jonbarron
         <!-- Class Vectors -->
         <tr>
           <td style="padding:16px;width:20%;vertical-align:middle">
-            <img src="/assets/images/papers/class-vectors.jpg" width="160" style="border-radius:4px;">
+            <div style="width:160px;height:160px;display:flex;align-items:center;justify-content:center;background:#fff;"><img src="/assets/images/papers/class-vectors.jpg" style="max-width:160px;max-height:160px;width:auto;height:auto;display:block;border-radius:4px;"></div>
           </td>
           <td style="padding:20px;width:75%;vertical-align:middle">
             <a href="https://arxiv.org/abs/2510.11268v1">
@@ -135,7 +134,7 @@ layout: jonbarron
         <!-- SECOND -->
         <tr>
           <td style="padding:16px;width:20%;vertical-align:middle">
-            <img src="/assets/images/papers/second.jpg" width="160" style="border-radius:4px;">
+            <div style="width:160px;height:160px;display:flex;align-items:center;justify-content:center;background:#fff;"><img src="/assets/images/papers/second.jpg" style="max-width:160px;max-height:160px;width:auto;height:auto;display:block;border-radius:4px;"></div>
           </td>
           <td style="padding:20px;width:75%;vertical-align:middle">
             <a href="https://arxiv.org/abs/2506.08391">
@@ -152,16 +151,6 @@ layout: jonbarron
 
       </tbody></table>
 
-      <!-- FOOTER -->
-      <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
-        <tr>
-          <td style="padding:0px">
-            <p style="text-align:right;font-size:small;">
-              Design inspired by <a href="https://jonbarron.info/">Jon Barron</a>.
-            </p>
-          </td>
-        </tr>
-      </tbody></table>
 
     </td>
   </tr>
