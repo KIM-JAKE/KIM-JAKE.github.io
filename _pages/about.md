@@ -41,7 +41,7 @@ layout: jonbarron
             <h2>News</h2>
             <ul>
               <li>[2026/03] <strong>Dynin-Omni is now live!</strong> Check out the <a href="https://dynin.ai/omni/">Project Page</a>.</li>
-              <li>[2026/04] Our paper, <strong>Medic-AD</strong>, has been selected as a <strong>CVPR 2026</strong> <span style="color:#d32f2f;"><strong>Oral</strong></span> presentation!</li>
+              <li>[2026/04] Our paper, <strong>Medic-AD</strong>, has been selected as a <strong>CVPR 2026</strong> (<span style="color:#d32f2f;"><strong>Oral</strong></span>) presentation!</li>
               <li>[2025/09] Two papers have been accepted to <strong>NeurIPS 2025</strong>.</li>
               <li>[2025/05] One paper has been accepted to <strong>ICML 2025</strong>.</li>
             </ul>
@@ -95,7 +95,7 @@ layout: jonbarron
             <br>
             Woohyeon Park, <strong>Jaeik Kim</strong>, Sunghwan Steve Cho, Pa Hong, Woo Kyoung Jeong, Yoojin Nam, Nam-Joon Kim, Ginny Wong, Ka Chun Cheung, Jaeyoung Do
             <br>
-            <em>CVPR</em> (<span style="color:#d32f2f;"><strong>Oral</strong></span>), 2026
+            <em>CVPR</em>, 2026 (<span style="color:#d32f2f;"><strong>Oral</strong></span>)
             <br>
             <a href="https://arxiv.org/abs/2603.27176v1">paper</a>
           </td>
