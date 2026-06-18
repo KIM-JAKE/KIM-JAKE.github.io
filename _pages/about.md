@@ -41,8 +41,8 @@ layout: jonbarron
             <h2>News</h2>
             <ul>
               <li>[2026/06] One paper has been accepted to <strong>ECCV 2026</strong>.</li>
-              <li>[2026/03] <strong>Dynin-Omni is now live!</strong> Check out the <a href="https://dynin.ai/omni/">Project Page</a>.</li>
               <li>[2026/04] Our paper, <strong>Medic-AD</strong>, has been selected as a <strong>CVPR 2026</strong> <span style="color:#1a73e8;"><strong>Oral presentation</strong></span>!</li>
+              <li>[2026/03] <strong>Dynin-Omni is now live!</strong> Check out the <a href="https://dynin.ai/omni/">Project Page</a>.</li>
               <li>[2025/09] Two papers have been accepted to <strong>NeurIPS 2025</strong>.</li>
               <li>[2025/05] One paper has been accepted to <strong>ICML 2025</strong>.</li>
             </ul>
@@ -72,7 +72,7 @@ layout: jonbarron
             <br>
             <strong>Jaeik Kim</strong><sup>*</sup>, Jaeyoung Do<sup>&dagger;</sup>
             <br>
-            <em>ECCV</em>, 2026
+            <em>The 19th European Conference on Computer Vision (ECCV)</em>, 2026
             <br>
             paper coming soon
           </td>
@@ -112,7 +112,7 @@ layout: jonbarron
             <br>
             Woohyeon Park, <strong>Jaeik Kim</strong>, Sunghwan Steve Cho, Pa Hong, Woo Kyoung Jeong, Yoojin Nam, Nam-Joon Kim, Ginny Wong, Ka Chun Cheung, Jaeyoung Do<sup>&dagger;</sup>
             <br>
-            <em>CVPR</em>, 2026 &nbsp;<span style="display:inline-block;padding:1px 10px;border-radius:999px;background:#fdeef0;color:#d32f2f;border:1px solid #f3c2c8;font-size:0.78em;font-weight:700;letter-spacing:0.04em;text-transform:uppercase;vertical-align:middle;">Oral</span> <span style="display:inline-block;padding:1px 10px;border-radius:999px;background:#fdf7df;color:#9a6b00;border:1px solid #e6cf72;font-size:0.78em;font-weight:700;letter-spacing:0.04em;text-transform:uppercase;vertical-align:middle;">🏅 Award Candidate</span>
+            <em>The 43rd IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</em>, 2026 &nbsp;<span style="display:inline-block;padding:1px 10px;border-radius:999px;background:#fdeef0;color:#d32f2f;border:1px solid #f3c2c8;font-size:0.78em;font-weight:700;letter-spacing:0.04em;text-transform:uppercase;vertical-align:middle;">Oral</span> <span style="display:inline-block;padding:1px 10px;border-radius:999px;background:#fdf7df;color:#9a6b00;border:1px solid #e6cf72;font-size:0.78em;font-weight:700;letter-spacing:0.04em;text-transform:uppercase;vertical-align:middle;">🏅 Award Candidate</span>
             <br>
             <a href="https://arxiv.org/abs/2603.27176v1">paper</a>
           </td>
@@ -130,7 +130,7 @@ layout: jonbarron
             <br>
             <strong>Jaeik Kim</strong><sup>*</sup>, Woojin Kim, Woohyeon Park, Jaeyoung Do<sup>&dagger;</sup>
             <br>
-            <em>NeurIPS</em>, 2025
+            <em>The 39th Conference on Neural Information Processing Systems (NeurIPS)</em>, 2025
             <br>
             <a href="https://aidaslab.github.io/MMPB/">project page</a> /
             <a href="https://arxiv.org/abs/2509.22820">paper</a> /
@@ -150,7 +150,7 @@ layout: jonbarron
             <br>
             <strong>Jaeik Kim</strong><sup>*</sup>, Jaeyoung Do<sup>&dagger;</sup>
             <br>
-            <em>NeurIPS</em>, 2025
+            <em>The 39th Conference on Neural Information Processing Systems (NeurIPS)</em>, 2025
             <br>
             <a href="https://aidaslab.github.io/Class-Vector/">project page</a> /
             <a href="https://arxiv.org/abs/2510.11268v1">paper</a>
@@ -169,7 +169,7 @@ layout: jonbarron
             <br>
             Woohyeon Park, Woojin Kim, <strong>Jaeik Kim</strong>, Jaeyoung Do<sup>&dagger;</sup>
             <br>
-            <em>ICML</em>, 2025
+            <em>The 42nd International Conference on Machine Learning (ICML)</em>, 2025
             <br>
             <a href="https://aidaslab.github.io/SECOND/">project page</a> /
             <a href="https://arxiv.org/abs/2506.08391">paper</a>
