@@ -40,8 +40,9 @@ layout: jonbarron
           <td style="padding:16px;width:100%;vertical-align:middle">
             <h2>News</h2>
             <ul>
+              <li>[2026/06] One paper has been accepted to <strong>ECCV 2026</strong>.</li>
               <li>[2026/03] <strong>Dynin-Omni is now live!</strong> Check out the <a href="https://dynin.ai/omni/">Project Page</a>.</li>
-              <li>[2026/04] Our paper, <strong>Medic-AD</strong>, has been selected as a <strong>CVPR 2026</strong> <span style="color:#d32f2f;"><strong>Oral presentation</strong></span>!</li>
+              <li>[2026/04] Our paper, <strong>Medic-AD</strong>, has been selected as a <strong>CVPR 2026</strong> <span style="color:#1a73e8;"><strong>Oral presentation</strong></span>!</li>
               <li>[2025/09] Two papers have been accepted to <strong>NeurIPS 2025</strong>.</li>
               <li>[2025/05] One paper has been accepted to <strong>ICML 2025</strong>.</li>
             </ul>
@@ -60,6 +61,22 @@ layout: jonbarron
 
       <!-- PAPERS TABLE -->
       <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+
+        <!-- SUM -->
+        <tr>
+          <td style="padding:16px 8px;width:20%;vertical-align:top;border-top:1px solid #ebebeb">
+            <div style="width:120px;height:120px;display:flex;align-items:center;justify-content:center;background:#fff;"><img src="/assets/images/papers/coming-soon.svg" style="max-width:120px;max-height:120px;width:auto;height:auto;display:block;border-radius:4px;"></div>
+          </td>
+          <td style="padding:16px;width:75%;vertical-align:top;border-top:1px solid #ebebeb">
+            <span class="papertitle">SUM: Unified Geometric Surgery on Spatio-Temporal Adaptation Vectors for Federated Class Incremental Learning</span>
+            <br>
+            <strong>Jaeik Kim</strong><sup>*</sup>, Jaeyoung Do<sup>&dagger;</sup>
+            <br>
+            <em>ECCV</em>, 2026
+            <br>
+            paper coming soon
+          </td>
+        </tr>
 
         <!-- Dynin-Omni -->
         <tr>
@@ -95,7 +112,7 @@ layout: jonbarron
             <br>
             Woohyeon Park, <strong>Jaeik Kim</strong>, Sunghwan Steve Cho, Pa Hong, Woo Kyoung Jeong, Yoojin Nam, Nam-Joon Kim, Ginny Wong, Ka Chun Cheung, Jaeyoung Do
             <br>
-            <em>CVPR</em>, 2026 (<span style="color:#d32f2f;"><strong>Oral presentation</strong></span>)
+            <em>CVPR</em>, 2026 (<span style="color:#1a73e8;"><strong>Oral presentation</strong></span>, <span style="color:#d32f2f;"><strong>Award Candidate</strong></span>)
             <br>
             <a href="https://arxiv.org/abs/2603.27176v1">paper</a>
           </td>
