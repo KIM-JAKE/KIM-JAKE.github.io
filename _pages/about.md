@@ -88,7 +88,7 @@ layout: jonbarron
               <span class="papertitle">Dynin-Omni: Omnimodal Unified Large Diffusion Language Model</span>
             </a>
             <br>
-            <strong>Jaeik Kim</strong>, Woojin Kim, Jihwan Hong, Yejoon Lee, Sieun Hyeon, Mintaek Lim, Yunseok Han, Dogeun Kim, Hoeun Lee, Hyunggeun Kim, Jaeyoung Do
+            <strong>Jaeik Kim</strong><sup>*</sup>, Woojin Kim, Jihwan Hong, Yejoon Lee, Sieun Hyeon, Mintaek Lim, Yunseok Han, Dogeun Kim, Hoeun Lee, Hyunggeun Kim, Jaeyoung Do<sup>&dagger;</sup>
             <br>
             <em>arXiv preprint</em>, 2026
             <br>
@@ -110,7 +110,7 @@ layout: jonbarron
               <span class="papertitle">Medic-AD: Towards Medical Vision-Language Model's Clinical Intelligence</span>
             </a>
             <br>
-            Woohyeon Park, <strong>Jaeik Kim</strong>, Sunghwan Steve Cho, Pa Hong, Woo Kyoung Jeong, Yoojin Nam, Nam-Joon Kim, Ginny Wong, Ka Chun Cheung, Jaeyoung Do
+            Woohyeon Park, <strong>Jaeik Kim</strong><sup>*</sup>, Sunghwan Steve Cho, Pa Hong, Woo Kyoung Jeong, Yoojin Nam, Nam-Joon Kim, Ginny Wong, Ka Chun Cheung, Jaeyoung Do<sup>&dagger;</sup>
             <br>
             <em>CVPR</em>, 2026 &nbsp;<span style="display:inline-block;padding:1px 10px;border-radius:999px;background:#fdeef0;color:#d32f2f;border:1px solid #f3c2c8;font-size:0.78em;font-weight:700;letter-spacing:0.04em;text-transform:uppercase;vertical-align:middle;">Oral</span> <span style="display:inline-block;padding:1px 10px;border-radius:999px;background:#fdf7df;color:#9a6b00;border:1px solid #e6cf72;font-size:0.78em;font-weight:700;letter-spacing:0.04em;text-transform:uppercase;vertical-align:middle;">🏅 Award Candidate</span>
             <br>
@@ -128,7 +128,7 @@ layout: jonbarron
               <span class="papertitle">MMPB: It's Time for Multi-Modal Personalization</span>
             </a>
             <br>
-            <strong>Jaeik Kim</strong>, Woojin Kim, Woohyeon Park, Jaeyoung Do
+            <strong>Jaeik Kim</strong><sup>*</sup>, Woojin Kim, Woohyeon Park, Jaeyoung Do<sup>&dagger;</sup>
             <br>
             <em>NeurIPS</em>, 2025
             <br>
@@ -148,7 +148,7 @@ layout: jonbarron
               <span class="papertitle">Exploring and Leveraging Class Vectors for Classifier Editing</span>
             </a>
             <br>
-            <strong>Jaeik Kim</strong>, Jaeyoung Do
+            <strong>Jaeik Kim</strong><sup>*</sup>, Jaeyoung Do<sup>&dagger;</sup>
             <br>
             <em>NeurIPS</em>, 2025
             <br>
@@ -167,7 +167,7 @@ layout: jonbarron
               <span class="papertitle">SECOND: Mitigating Perceptual Hallucination in Vision-Language Models via Selective and Contrastive Decoding</span>
             </a>
             <br>
-            Woohyeon Park, Woojin Kim, <strong>Jaeik Kim</strong>, Jaeyoung Do
+            Woohyeon Park, Woojin Kim, <strong>Jaeik Kim</strong><sup>*</sup>, Jaeyoung Do<sup>&dagger;</sup>
             <br>
             <em>ICML</em>, 2025
             <br>
