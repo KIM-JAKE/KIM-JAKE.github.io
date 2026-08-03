@@ -62,19 +62,40 @@ layout: jonbarron
       <!-- PAPERS TABLE -->
       <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
 
+        <!-- Dynin-Robotics -->
+        <tr>
+          <td style="padding:16px 8px;width:20%;vertical-align:top;border-top:1px solid #ebebeb">
+            <div style="width:120px;height:120px;display:flex;align-items:center;justify-content:center;background:#fff;"><img src="/assets/images/papers/dynin-robotics.png" alt="Dynin-Robotics model overview" style="max-width:120px;max-height:120px;width:auto;height:auto;display:block;border-radius:4px;"></div>
+          </td>
+          <td style="padding:16px;width:75%;vertical-align:top;border-top:1px solid #ebebeb">
+            <a href="https://dynin.ai/robotics/">
+              <span class="papertitle">Dynin-Robotics: Omnimodal Unified Diffusion Vision-Language Action Model</span>
+            </a>
+            <br>
+            Hoeun Lee, <strong>Jaeik Kim</strong>, Jusang Oh, Jinhyeok Kim, Geon Choi, Hyeonggeun Kim, Jaeyoung Do<sup>&dagger;</sup>
+            <br>
+            <a href="https://dynin.ai/robotics/">project page</a> /
+            paper (coming soon) /
+            code (coming soon) /
+            model (coming soon)
+          </td>
+        </tr>
+
         <!-- SUM -->
         <tr>
           <td style="padding:16px 8px;width:20%;vertical-align:top;border-top:1px solid #ebebeb">
-            <div style="width:120px;height:120px;display:flex;align-items:center;justify-content:center;background:#fff;"><img src="/assets/images/papers/coming-soon.svg" style="max-width:120px;max-height:120px;width:auto;height:auto;display:block;border-radius:4px;"></div>
+            <div style="width:120px;height:120px;display:flex;align-items:center;justify-content:center;background:#fff;"><img src="/assets/images/papers/sum.png" alt="Overview of Surgery and Merge (SUM)" style="max-width:120px;max-height:120px;width:auto;height:auto;display:block;border-radius:4px;"></div>
           </td>
           <td style="padding:16px;width:75%;vertical-align:top;border-top:1px solid #ebebeb">
-            <span class="papertitle">SUM: Unified Geometric Surgery on Spatio-Temporal Adaptation Vectors for Federated Class Incremental Learning</span>
+            <a href="https://arxiv.org/abs/2607.19384">
+              <span class="papertitle">SUM: Unified Geometric Surgery on Spatio-Temporal Adaptation Vectors for Federated Class Incremental Learning</span>
+            </a>
             <br>
             <strong>Jaeik Kim</strong><sup>*</sup>, Jaeyoung Do<sup>&dagger;</sup>
             <br>
             <em>The 19th European Conference on Computer Vision (ECCV)</em>, 2026
             <br>
-            paper coming soon
+            <a href="https://arxiv.org/abs/2607.19384">paper</a>
           </td>
         </tr>
 
