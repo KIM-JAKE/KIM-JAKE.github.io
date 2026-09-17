@@ -69,13 +69,13 @@ layout: jonbarron
           </td>
           <td style="padding:16px;width:75%;vertical-align:top;border-top:1px solid #ebebeb">
             <a href="https://dynin.ai/robotics/">
-              <span class="papertitle">Dynin-Robotics: Omnimodal Unified Diffusion Vision-Language Action Model</span>
+              <span class="papertitle">Dynin-Robotics: Omnimodal Unified Diffusion Vision-Language-Action Model</span>
             </a>
             <br>
             Hoeun Lee, <strong>Jaeik Kim</strong>, Jusang Oh, Jinhyeok Kim, Geon Choi, Hyeonggeun Kim, Jaeyoung Do<sup>&dagger;</sup>
             <br>
             <a href="https://dynin.ai/robotics/">project page</a> /
-            paper (coming soon) /
+            <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=ko&amp;user=fwpoQpQAAAAJ&amp;citation_for_view=fwpoQpQAAAAJ:zYLM7Y9cAGgC">archive</a> /
             code (coming soon) /
             model (coming soon)
           </td>
@@ -95,7 +95,9 @@ layout: jonbarron
             <br>
             <em>The 19th European Conference on Computer Vision (ECCV)</em>, 2026
             <br>
-            <a href="https://arxiv.org/abs/2607.19384">paper</a>
+            <a href="https://aidaslab.github.io/SUrgery-and-Merge/">project page</a> /
+            <a href="https://arxiv.org/abs/2607.19384">paper</a> /
+            <a href="https://github.com/AIDASLab/SUrgery-and-Merge">code</a>
           </td>
         </tr>
 
@@ -135,7 +137,8 @@ layout: jonbarron
             <br>
             <em>The 43rd IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</em>, 2026 &nbsp;<span style="display:inline-block;padding:1px 10px;border-radius:999px;background:#fdeef0;color:#d32f2f;border:1px solid #f3c2c8;font-size:0.78em;font-weight:700;letter-spacing:0.04em;text-transform:uppercase;vertical-align:middle;">Oral</span> <span style="display:inline-block;padding:1px 10px;border-radius:999px;background:#fdf7df;color:#9a6b00;border:1px solid #e6cf72;font-size:0.78em;font-weight:700;letter-spacing:0.04em;text-transform:uppercase;vertical-align:middle;">🏅 Award Candidate</span>
             <br>
-            <a href="https://arxiv.org/abs/2603.27176v1">paper</a>
+            <a href="https://arxiv.org/abs/2603.27176v1">paper</a> /
+            <a href="https://github.com/AIDASLab/Medic-AD">code</a>
           </td>
         </tr>
 
