@@ -40,6 +40,7 @@ layout: jonbarron
           <td style="padding:16px;width:100%;vertical-align:middle">
             <h2>News</h2>
             <ul>
+              <li>[2026/09] Two papers have been accepted to <strong>NeurIPS 2026</strong>.</li>
               <li>[2026/06] One paper has been accepted to <strong>ECCV 2026</strong>.</li>
               <li>[2026/04] Our paper, <strong>Medic-AD</strong>, has been selected as a <strong>CVPR 2026</strong> <span style="color:#1a73e8;"><strong>Oral presentation</strong></span>!</li>
               <li>[2026/03] <strong>Dynin-Omni is now live!</strong> Check out the <a href="https://dynin.ai/omni/">Project Page</a>.</li>
@@ -73,6 +74,8 @@ layout: jonbarron
             </a>
             <br>
             Hoeun Lee, <strong>Jaeik Kim</strong>, Jusang Oh, Jinhyeok Kim, Geon Choi, Hyeonggeun Kim, Jaeyoung Do<sup>&dagger;</sup>
+            <br>
+            <em>The 40th Conference on Neural Information Processing Systems (NeurIPS)</em>, 2026
             <br>
             <a href="https://dynin.ai/robotics/">project page</a> /
             <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=ko&amp;user=fwpoQpQAAAAJ&amp;citation_for_view=fwpoQpQAAAAJ:zYLM7Y9cAGgC">archive</a> /
