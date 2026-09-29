@@ -76,7 +76,7 @@ layout: jonbarron
             <br>
             <strong>Jaeik Kim</strong><sup>*</sup>, Yoonjae Baek, Aecheon Jung, Hongyeob Kim, Soyun Choi, Youngeun Kim, Jaeyoung Do, and Sungeun Hong<sup>&dagger;</sup>
             <br>
-            <em>Neurocomputing</em>, 2026
+            <em>Neurocomputing</em> (Q1), 2026
             <br>
             <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6380741">paper</a> /
             <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=ko&amp;user=fwpoQpQAAAAJ&amp;citation_for_view=fwpoQpQAAAAJ:qjMakFHDy7sC">Google Scholar</a>
