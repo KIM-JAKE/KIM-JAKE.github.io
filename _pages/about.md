@@ -67,7 +67,7 @@ layout: jonbarron
         <!-- Neurocomputing: Dual Path Semantic Segmentation -->
         <tr>
           <td style="padding:16px 8px;width:20%;vertical-align:top;border-top:1px solid #ebebeb">
-            <div style="width:120px;height:120px;display:flex;align-items:center;justify-content:center;background:#fff;"><img src="/assets/images/papers/coming-soon.svg" alt="Publication image coming soon" style="max-width:120px;max-height:120px;width:auto;height:auto;display:block;border-radius:4px;"></div>
+            <div style="width:120px;height:120px;display:flex;align-items:center;justify-content:center;background:#fff;"><img src="/assets/images/papers/dpseg.png" alt="Dual Path Semantic Segmentation with Locality Guidance Tokens main figure" style="max-width:120px;max-height:120px;width:auto;height:auto;display:block;border-radius:4px;"></div>
           </td>
           <td style="padding:16px;width:75%;vertical-align:top;border-top:1px solid #ebebeb">
             <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6380741">
