@@ -74,7 +74,7 @@ layout: jonbarron
               <span class="papertitle">Dual Path Semantic Segmentation with Locality Guidance Tokens</span>
             </a>
             <br>
-            <strong>Jaeik Kim</strong>, Yoonjae Baek, Aecheon Jung, Hongyeob Kim, Soyun Choi, Youngeun Kim, Jaeyoung Do, and Sungeun Hong
+            <strong>Jaeik Kim</strong><sup>*</sup>, Yoonjae Baek, Aecheon Jung, Hongyeob Kim, Soyun Choi, Youngeun Kim, Jaeyoung Do, and Sungeun Hong<sup>&dagger;</sup>
             <br>
             <em>Neurocomputing</em>, 2026
             <br>
