@@ -40,6 +40,7 @@ layout: jonbarron
           <td style="padding:16px;width:100%;vertical-align:middle">
             <h2>News</h2>
             <ul>
+              <li>[2026/09] Our paper, <strong>Dual Path Semantic Segmentation with Locality Guidance Tokens</strong>, has been accepted for publication in <strong>Neurocomputing</strong>.</li>
               <li>[2026/09] Two papers have been accepted to <strong>NeurIPS 2026</strong>.</li>
               <li>[2026/06] One paper has been accepted to <strong>ECCV 2026</strong>.</li>
               <li>[2026/04] Our paper, <strong>Medic-AD</strong>, has been selected as a <strong>CVPR 2026</strong> <span style="color:#1a73e8;"><strong>Oral presentation</strong></span>!</li>
@@ -62,6 +63,25 @@ layout: jonbarron
 
       <!-- PAPERS TABLE -->
       <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+
+        <!-- Neurocomputing: Dual Path Semantic Segmentation -->
+        <tr>
+          <td style="padding:16px 8px;width:20%;vertical-align:top;border-top:1px solid #ebebeb">
+            <div style="width:120px;height:120px;display:flex;align-items:center;justify-content:center;background:#fff;"><img src="/assets/images/papers/coming-soon.svg" alt="Publication image coming soon" style="max-width:120px;max-height:120px;width:auto;height:auto;display:block;border-radius:4px;"></div>
+          </td>
+          <td style="padding:16px;width:75%;vertical-align:top;border-top:1px solid #ebebeb">
+            <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6380741">
+              <span class="papertitle">Dual Path Semantic Segmentation with Locality Guidance Tokens</span>
+            </a>
+            <br>
+            <strong>Jaeik Kim</strong>, Yoonjae Baek, Aecheon Jung, Hongyeob Kim, Soyun Choi, Youngeun Kim, Jaeyoung Do, and Sungeun Hong
+            <br>
+            <em>Neurocomputing</em>, 2026
+            <br>
+            <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6380741">paper</a> /
+            <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=ko&amp;user=fwpoQpQAAAAJ&amp;citation_for_view=fwpoQpQAAAAJ:qjMakFHDy7sC">Google Scholar</a>
+          </td>
+        </tr>
 
         <!-- Dynin-Robotics -->
         <tr>
