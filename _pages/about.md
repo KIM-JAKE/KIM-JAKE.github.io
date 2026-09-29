@@ -78,8 +78,7 @@ layout: jonbarron
             <br>
             <em>Neurocomputing</em> (Q1), 2026
             <br>
-            <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6380741">paper</a> /
-            <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=ko&amp;user=fwpoQpQAAAAJ&amp;citation_for_view=fwpoQpQAAAAJ:qjMakFHDy7sC">Google Scholar</a>
+            <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6380741">paper</a>
           </td>
         </tr>
 
@@ -98,7 +97,7 @@ layout: jonbarron
             <em>The 40th Conference on Neural Information Processing Systems (NeurIPS)</em>, 2026
             <br>
             <a href="https://dynin.ai/robotics/">project page</a> /
-            <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=ko&amp;user=fwpoQpQAAAAJ&amp;citation_for_view=fwpoQpQAAAAJ:zYLM7Y9cAGgC">archive</a> /
+            <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=ko&amp;user=fwpoQpQAAAAJ&amp;citation_for_view=fwpoQpQAAAAJ:zYLM7Y9cAGgC">paper</a> /
             code (coming soon) /
             model (coming soon)
           </td>
