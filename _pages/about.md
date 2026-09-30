@@ -64,6 +64,24 @@ layout: jonbarron
       <!-- PAPERS TABLE -->
       <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
 
+        <!-- Omni-StoryBench -->
+        <tr>
+          <td style="padding:16px 8px;width:20%;vertical-align:top;border-top:1px solid #ebebeb">
+            <div style="width:120px;height:120px;display:flex;align-items:center;justify-content:center;background:#fff;"><img src="/assets/images/papers/omni-storybench.png" alt="Omni-StoryBench overview figure" style="max-width:120px;max-height:120px;width:auto;height:auto;display:block;border-radius:4px;"></div>
+          </td>
+          <td style="padding:16px;width:75%;vertical-align:top;border-top:1px solid #ebebeb">
+            <a href="https://arxiv.org/abs/2609.37317">
+              <span class="papertitle">What Comes Next? Omni-StoryBench for Evaluating Story-Grounded Omnimodal Generation</span>
+            </a>
+            <br>
+            Sieun Hyeon<sup>*</sup>, Yejoon Lee<sup>*</sup>, Mintaek Lim, Woojin Kim, <strong>Jaeik Kim</strong>, and Jaeyoung Do<sup>&dagger;</sup>
+            <br>
+            <em>arXiv preprint</em>, 2026
+            <br>
+            <a href="https://arxiv.org/abs/2609.37317">paper</a>
+          </td>
+        </tr>
+
         <!-- Neurocomputing: Dual Path Semantic Segmentation -->
         <tr>
           <td style="padding:16px 8px;width:20%;vertical-align:top;border-top:1px solid #ebebeb">
