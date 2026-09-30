@@ -16,7 +16,10 @@ layout: jonbarron
               I'm an M.S. student at <a href="https://aidas.snu.ac.kr/">AIDAS Lab</a>, Seoul National University, advised by <a href="https://sites.google.com/view/jaeyoungdo">Jaeyoung Do</a>.
             </p>
             <p>
-              <strong>Research Keywords:</strong> Diffusion Language Models / Omnimodal Models / Robotics / Model Editing &amp; Personalization
+              I study how multimodal foundation models can acquire, combine, and adapt capabilities across perception, generation, and action.
+            </p>
+            <p>
+              <strong>Current directions:</strong> Unified multimodal models &middot; Model adaptation and composition &middot; Vision-language-action
             </p>
             <p style="text-align:center">
               <a href="/thoughts/">My Thoughts</a>
