@@ -41,7 +41,7 @@ layout: jonbarron
             <h2>News</h2>
             <ul>
               <li>[2026/09] One paper has been accepted to <strong>Neurocomputing</strong>.</li>
-              <li>[2026/09] Three papers have been accepted to <strong>NeurIPS 2026</strong>.</li>
+              <li>[2026/09] Two papers have been accepted to <strong>NeurIPS 2026</strong>.</li>
               <li>[2026/06] One paper has been accepted to <strong>ECCV 2026</strong>.</li>
               <li>[2026/04] Our paper, <strong>Medic-AD</strong>, has been selected as a <strong>CVPR 2026</strong> <span style="color:#1a73e8;"><strong>Oral presentation</strong></span>!</li>
               <li>[2026/03] <strong>Dynin-Omni is now live!</strong> Check out the <a href="https://dynin.ai/omni/">Project Page</a>.</li>
