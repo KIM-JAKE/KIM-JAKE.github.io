@@ -41,7 +41,7 @@ layout: jonbarron
             <h2>News</h2>
             <ul>
               <li>[2026/09] One paper has been accepted to <strong>Neurocomputing</strong>.</li>
-              <li>[2026/09] Two papers have been accepted to <strong>NeurIPS 2026</strong>.</li>
+              <li>[2026/09] Three papers have been accepted to <strong>NeurIPS 2026</strong>.</li>
               <li>[2026/06] One paper has been accepted to <strong>ECCV 2026</strong>.</li>
               <li>[2026/04] Our paper, <strong>Medic-AD</strong>, has been selected as a <strong>CVPR 2026</strong> <span style="color:#1a73e8;"><strong>Oral presentation</strong></span>!</li>
               <li>[2026/03] <strong>Dynin-Omni is now live!</strong> Check out the <a href="https://dynin.ai/omni/">Project Page</a>.</li>
@@ -97,6 +97,22 @@ layout: jonbarron
             <em>Neurocomputing</em> (Q1), 2026
             <br>
             <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6380741">paper</a>
+          </td>
+        </tr>
+
+        <!-- When Predicting Nothing Beats SAM 3 -->
+        <tr>
+          <td style="padding:16px 8px;width:20%;vertical-align:top;border-top:1px solid #ebebeb">
+            <div style="width:120px;height:120px;display:flex;align-items:center;justify-content:center;background:#fff;"><img src="/assets/images/papers/sam3-predict-nothing.png" alt="Comparison of SAM 3 and Predict Nothing on video object segmentation" style="max-width:120px;max-height:120px;width:auto;height:auto;display:block;border-radius:4px;"></div>
+          </td>
+          <td style="padding:16px;width:75%;vertical-align:top;border-top:1px solid #ebebeb">
+            <span class="papertitle">When Predicting Nothing Beats SAM 3: Revisiting Evaluation in Video Object Segmentation</span>
+            <br>
+            Jihwan Hong, Woohyeon Park, <strong>Jaeik Kim</strong>, and Jaeyoung Do<sup>&dagger;</sup>
+            <br>
+            <em>The 40th Annual Conference on Neural Information Processing Systems (NeurIPS)</em>, 2026
+            <br>
+            paper (coming soon)
           </td>
         </tr>
 
