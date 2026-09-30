@@ -74,7 +74,7 @@ layout: jonbarron
               <span class="papertitle">What Comes Next? Omni-StoryBench for Evaluating Story-Grounded Omnimodal Generation</span>
             </a>
             <br>
-            Sieun Hyeon<sup>*</sup>, Yejoon Lee<sup>*</sup>, Mintaek Lim, Woojin Kim, <strong>Jaeik Kim</strong>, and Jaeyoung Do<sup>&dagger;</sup>
+            Sieun Hyeon, Yejoon Lee, Mintaek Lim, Woojin Kim, <strong>Jaeik Kim</strong>, and Jaeyoung Do<sup>&dagger;</sup>
             <br>
             <em>arXiv preprint</em>, 2026
             <br>
